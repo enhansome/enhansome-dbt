@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:20:53Z",
+            "last_commit": "2026-08-14T23:45:02Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6043
+            "stars": 6052
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T14:49:16Z",
+            "last_commit": "2026-08-15T09:11:36Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3839
+            "stars": 3842
           }
         },
         {
@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:58:28Z",
+            "last_commit": "2026-08-15T08:48:15Z",
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 947
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-13T14:51:53Z",
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2391
+            "stars": 2390
           }
         },
         {
@@ -349,7 +349,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:26:14Z",
+            "last_commit": "2026-08-14T22:59:37Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
             "stars": 9853
@@ -366,7 +366,7 @@
             "last_commit": "2026-08-14T16:58:14Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 793
+            "stars": 791
           }
         },
         {
@@ -380,7 +380,7 @@
             "last_commit": "2026-08-12T20:09:05Z",
             "owner": "dbt-checkpoint",
             "repo": "dbt-checkpoint",
-            "stars": 760
+            "stars": 761
           }
         },
         {
@@ -391,7 +391,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T19:32:54Z",
+            "last_commit": "2026-08-15T19:33:23Z",
             "owner": "z3z1ma",
             "repo": "dbt-osmosis",
             "stars": 639
@@ -419,7 +419,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:29:59Z",
+            "last_commit": "2026-08-15T16:45:01Z",
             "owner": "tconbeer",
             "repo": "sqlfmt",
             "stars": 542
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-13T14:25:21Z",
             "owner": "datnguye",
             "repo": "dbterd",
-            "stars": 343
+            "stars": 345
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2025-01-21T19:47:44Z",
             "owner": "dbt-labs",
             "repo": "dbt-meshify",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T12:55:23Z",
+            "last_commit": "2026-08-15T12:10:01Z",
             "owner": "yu-iskw",
             "repo": "dbt-artifacts-parser",
             "stars": 114
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-05T12:31:32Z",
+            "last_commit": "2026-08-15T20:42:14Z",
             "owner": "feliblo",
             "repo": "dbtective",
             "stars": 42
@@ -1056,7 +1056,7 @@
             "last_commit": "2024-05-17T13:45:03Z",
             "owner": "datafold",
             "repo": "data-diff",
-            "stars": 2988
+            "stars": 2989
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-08-10T11:36:59Z",
             "owner": "brooklyn-data",
             "repo": "dbt_artifacts",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-04-29T08:49:19Z",
             "owner": "slidoapp",
             "repo": "dbt-coverage",
-            "stars": 241
+            "stars": 240
           }
         },
         {
@@ -1824,7 +1824,7 @@
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 471
+            "stars": 472
           }
         },
         {
@@ -1838,7 +1838,7 @@
             "last_commit": "2023-12-28T02:55:36Z",
             "owner": "InfuseAI",
             "repo": "awesome-public-dbt-projects",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:57:41.684Z",
+    "last_updated": "2026-08-15T20:50:15.011Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_sha": "99d6b242339729b7c6304fa70a201509873821b2",
     "enhanced_repository": "enhansome/enhansome-dbt",
