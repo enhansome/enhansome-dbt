@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:45:02Z",
+            "last_commit": "2026-08-16T20:42:25Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6052
+            "stars": 6056
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T09:11:36Z",
+            "last_commit": "2026-08-16T11:49:42Z",
             "owner": "bruin-data",
             "repo": "ingestr",
             "stars": 3842
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-13T11:28:37Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 665
+            "stars": 666
           }
         },
         {
@@ -205,7 +205,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T14:51:53Z",
+            "last_commit": "2026-08-16T10:56:32Z",
             "owner": "elementary-data",
             "repo": "elementary",
             "stars": 2390
@@ -352,7 +352,7 @@
             "last_commit": "2026-08-14T22:59:37Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9853
+            "stars": 9855
           }
         },
         {
@@ -363,7 +363,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:58:14Z",
+            "last_commit": "2026-08-16T18:48:13Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
             "stars": 791
@@ -394,7 +394,7 @@
             "last_commit": "2026-08-15T19:33:23Z",
             "owner": "z3z1ma",
             "repo": "dbt-osmosis",
-            "stars": 639
+            "stars": 640
           }
         },
         {
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T12:10:01Z",
+            "last_commit": "2026-08-15T22:14:15Z",
             "owner": "yu-iskw",
             "repo": "dbt-artifacts-parser",
             "stars": 114
@@ -1070,7 +1070,7 @@
             "last_commit": "2026-07-28T10:41:17Z",
             "owner": "dbt-labs",
             "repo": "dbt-codegen",
-            "stars": 669
+            "stars": 670
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-08-10T11:36:59Z",
             "owner": "brooklyn-data",
             "repo": "dbt_artifacts",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:50:15.011Z",
+    "last_updated": "2026-08-16T20:50:18.647Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_sha": "99d6b242339729b7c6304fa70a201509873821b2",
     "enhanced_repository": "enhansome/enhansome-dbt",
