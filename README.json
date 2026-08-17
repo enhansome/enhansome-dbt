@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T19:30:22Z",
+            "last_commit": "2026-08-17T17:42:39Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 209
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T20:42:25Z",
+            "last_commit": "2026-08-17T20:54:36Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6056
+            "stars": 6055
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T11:49:42Z",
+            "last_commit": "2026-08-17T19:55:47Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3842
+            "stars": 3843
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-15T08:48:15Z",
             "owner": "fal-ai",
             "repo": "fal",
-            "stars": 947
+            "stars": 946
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-13T11:28:37Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T20:57:09Z",
+            "last_commit": "2026-08-17T20:43:00Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
             "stars": 596
@@ -205,7 +205,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T10:56:32Z",
+            "last_commit": "2026-08-17T09:08:03Z",
             "owner": "elementary-data",
             "repo": "elementary",
             "stars": 2390
@@ -309,7 +309,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-27T08:18:55Z",
+            "last_commit": "2026-08-17T07:17:43Z",
             "owner": "pgoslatara",
             "repo": "dbt-beyond-the-basics",
             "stars": 105
@@ -349,7 +349,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:59:37Z",
+            "last_commit": "2026-08-17T12:32:42Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
             "stars": 9855
@@ -363,10 +363,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:48:13Z",
+            "last_commit": "2026-08-17T20:54:22Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 791
+            "stars": 792
           }
         },
         {
@@ -419,7 +419,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:45:01Z",
+            "last_commit": "2026-08-17T20:39:55Z",
             "owner": "tconbeer",
             "repo": "sqlfmt",
             "stars": 542
@@ -545,7 +545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T07:03:09Z",
+            "last_commit": "2026-08-17T13:19:17Z",
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
             "stars": 125
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T20:42:14Z",
+            "last_commit": "2026-08-17T10:28:40Z",
             "owner": "feliblo",
             "repo": "dbtective",
             "stars": 42
@@ -1084,7 +1084,7 @@
             "last_commit": "2026-08-06T06:47:51Z",
             "owner": "gouline",
             "repo": "dbt-metabase",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -1207,7 +1207,7 @@
           "repo_info": {
             "archived": false,
             "language": "PLSQL",
-            "last_commit": "2026-08-11T14:38:03Z",
+            "last_commit": "2026-08-17T14:23:53Z",
             "owner": "ScalefreeCOM",
             "repo": "datavault4dbt",
             "stars": 200
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:50:18.647Z",
+    "last_updated": "2026-08-17T20:55:46.490Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_sha": "99d6b242339729b7c6304fa70a201509873821b2",
     "enhanced_repository": "enhansome/enhansome-dbt",
