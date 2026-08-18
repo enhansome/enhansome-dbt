@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T17:42:39Z",
+            "last_commit": "2026-08-18T20:51:28Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 209
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:54:36Z",
+            "last_commit": "2026-08-18T20:43:25Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6055
+            "stars": 6056
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T19:55:47Z",
+            "last_commit": "2026-08-18T19:10:57Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3843
+            "stars": 3846
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:28:37Z",
+            "last_commit": "2026-08-18T11:41:12Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 667
+            "stars": 671
           }
         },
         {
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:43:00Z",
+            "last_commit": "2026-08-18T20:43:22Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -205,10 +205,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T09:08:03Z",
+            "last_commit": "2026-08-18T10:41:21Z",
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2390
+            "stars": 2392
           }
         },
         {
@@ -247,10 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:03:49Z",
+            "last_commit": "2026-08-18T16:29:31Z",
             "owner": "rasinmuhammed",
             "repo": "misata",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -261,7 +261,7 @@
           "repo_info": {
             "archived": false,
             "language": "PLpgSQL",
-            "last_commit": "2026-07-04T03:53:44Z",
+            "last_commit": "2026-08-18T02:39:29Z",
             "owner": "infinitelambda",
             "repo": "dq-tools",
             "stars": 56
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:00:40Z",
+            "last_commit": "2026-08-18T18:48:05Z",
             "owner": "rbmuller",
             "repo": "scherlok",
             "stars": 9
@@ -349,7 +349,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:32:42Z",
+            "last_commit": "2026-08-18T14:51:27Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
             "stars": 9855
@@ -363,7 +363,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:54:22Z",
+            "last_commit": "2026-08-18T20:01:37Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
             "stars": 792
@@ -377,10 +377,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:09:05Z",
+            "last_commit": "2026-08-17T21:43:11Z",
             "owner": "dbt-checkpoint",
             "repo": "dbt-checkpoint",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2026-08-15T19:33:23Z",
             "owner": "z3z1ma",
             "repo": "dbt-osmosis",
-            "stars": 640
+            "stars": 641
           }
         },
         {
@@ -405,7 +405,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T08:57:31Z",
+            "last_commit": "2026-08-17T21:28:02Z",
             "owner": "AltimateAI",
             "repo": "vscode-dbt-power-user",
             "stars": 583
@@ -419,10 +419,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:39:55Z",
+            "last_commit": "2026-08-18T02:59:26Z",
             "owner": "tconbeer",
             "repo": "sqlfmt",
-            "stars": 542
+            "stars": 543
           }
         },
         {
@@ -447,7 +447,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:25:21Z",
+            "last_commit": "2026-08-17T21:47:09Z",
             "owner": "datnguye",
             "repo": "dbterd",
             "stars": 345
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T13:19:17Z",
+            "last_commit": "2026-08-18T08:44:38Z",
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -959,20 +959,6 @@
         },
         {
           "node_type": "item",
-          "title": "ERD Studio",
-          "description": "VS Code extension that puts a visual ERD designer inside your dbt repo. Two-stage (logical/physical) canvas, drift detection against , auto-generated , and AI-readable semantic models (YAML/JSON) with a built-in harness for Claude, Copilot, Gemini, and Codex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-10T05:30:14Z",
-            "owner": "liam-machine",
-            "repo": "erd-studio",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
           "title": "metadv",
           "description": "Python library for generating models from a declarative YAML configuration. It supports multiple data modeling approaches including Data Vault 2.0, Anchor Modeling, and Dimensional Modeling, with template packages for popular dbt libraries.",
           "children": [],
@@ -982,6 +968,20 @@
             "last_commit": "2026-01-24T19:43:19Z",
             "owner": "data-diving",
             "repo": "metadv",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERD Studio",
+          "description": "VS Code extension that puts a visual ERD designer inside your dbt repo. Two-stage (logical/physical) canvas, drift detection against , auto-generated , and AI-readable semantic models (YAML/JSON) with a built-in harness for Claude, Copilot, Gemini, and Codex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T05:30:14Z",
+            "owner": "liam-machine",
+            "repo": "erd-studio",
             "stars": 5
           }
         },
@@ -1056,7 +1056,7 @@
             "last_commit": "2024-05-17T13:45:03Z",
             "owner": "datafold",
             "repo": "data-diff",
-            "stars": 2989
+            "stars": 2990
           }
         },
         {
@@ -1126,7 +1126,7 @@
             "last_commit": "2026-05-19T12:18:10Z",
             "owner": "dbt-labs",
             "repo": "dbt-audit-helper",
-            "stars": 419
+            "stars": 421
           }
         },
         {
@@ -1224,7 +1224,7 @@
             "last_commit": "2024-08-20T13:04:11Z",
             "owner": "lightdash",
             "repo": "dbt2looker",
-            "stars": 192
+            "stars": 193
           }
         },
         {
@@ -1431,7 +1431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T18:47:59Z",
+            "last_commit": "2026-08-17T21:20:08Z",
             "owner": "microsoft",
             "repo": "dbt-fabricspark",
             "stars": 64
@@ -1824,7 +1824,7 @@
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -2123,7 +2123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:55:46.490Z",
+    "last_updated": "2026-08-18T20:52:01.100Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_sha": "99d6b242339729b7c6304fa70a201509873821b2",
     "enhanced_repository": "enhansome/enhansome-dbt",
