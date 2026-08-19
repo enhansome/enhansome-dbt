@@ -12,7 +12,7 @@
             "archived": false,
             "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:17:51Z",
+            "last_commit": "2026-08-19T20:43:18Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 209
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:12:03Z",
+            "last_commit": "2026-08-19T20:54:25Z",
             "owner": "lightdash",
             "repo": "lightdash",
             "stars": 6056
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T10:37:36Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3846
+            "stars": 3849
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 730384901,
             "language": "Python",
-            "last_commit": "2026-08-19T00:31:54Z",
+            "last_commit": "2026-08-19T20:41:02Z",
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 946
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 1130059064,
             "language": "Python",
-            "last_commit": "2026-08-18T11:41:12Z",
+            "last_commit": "2026-08-19T16:08:49Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
             "stars": 675
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 947516890,
             "language": "Python",
-            "last_commit": "2026-08-19T05:39:15Z",
+            "last_commit": "2026-08-19T15:30:12Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
-            "stars": 597
+            "stars": 598
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-18T10:41:21Z",
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2393
+            "stars": 2394
           }
         },
         {
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 1117377856,
             "language": "Python",
-            "last_commit": "2026-08-19T11:55:36Z",
+            "last_commit": "2026-08-19T15:03:54Z",
             "owner": "rasinmuhammed",
             "repo": "misata",
             "stars": 66
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 1168055015,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:13:41Z",
+            "last_commit": "2026-08-19T19:25:27Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
             "stars": 793
@@ -576,7 +576,7 @@
             "archived": false,
             "id": 819995040,
             "language": "Python",
-            "last_commit": "2026-08-19T07:44:09Z",
+            "last_commit": "2026-08-19T18:20:06Z",
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
             "stars": 126
@@ -594,7 +594,7 @@
             "last_commit": "2026-02-01T14:28:04Z",
             "owner": "data-diving",
             "repo": "dbt-ui",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "archived": false,
             "id": 510750851,
             "language": "PLSQL",
-            "last_commit": "2026-08-19T10:27:28Z",
+            "last_commit": "2026-08-19T16:12:24Z",
             "owner": "ScalefreeCOM",
             "repo": "datavault4dbt",
             "stars": 200
@@ -1926,7 +1926,7 @@
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 473
+            "stars": 474
           }
         },
         {
@@ -2046,7 +2046,7 @@
             "last_commit": "2023-05-17T20:17:19Z",
             "owner": "randypitcherii",
             "repo": "dbt_workspace",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:45.628Z",
+    "last_updated": "2026-08-19T20:56:00.343Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_id": 415350443,
     "original_repository_sha": "99d6b242339729b7c6304fa70a201509873821b2",
