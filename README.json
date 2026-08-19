@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T20:51:28Z",
+            "last_commit": "2026-08-19T11:17:51Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 209
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479574546,
             "language": "Python",
             "last_commit": "2026-04-30T20:47:16Z",
             "owner": "flexanalytics",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485935031,
             "language": null,
             "last_commit": "2022-07-25T06:28:11Z",
             "owner": "zsombor-flds",
@@ -58,8 +61,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:43:25Z",
+            "last_commit": "2026-08-19T12:12:03Z",
             "owner": "lightdash",
             "repo": "lightdash",
             "stars": 6056
@@ -72,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-18T19:10:57Z",
+            "last_commit": "2026-08-19T10:37:36Z",
             "owner": "bruin-data",
             "repo": "ingestr",
             "stars": 3846
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730384901,
             "language": "Python",
-            "last_commit": "2026-08-15T08:48:15Z",
+            "last_commit": "2026-08-19T00:31:54Z",
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 946
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1130059064,
             "language": "Python",
             "last_commit": "2026-08-18T11:41:12Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 671
+            "stars": 675
           }
         },
         {
@@ -114,8 +121,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 947516890,
             "language": "Python",
-            "last_commit": "2026-08-18T20:43:22Z",
+            "last_commit": "2026-08-19T05:39:15Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
             "stars": 597
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 496771859,
             "language": "Python",
             "last_commit": "2026-03-19T16:48:23Z",
             "owner": "prefect-archive",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 949683238,
             "language": "Python",
             "last_commit": "2025-06-26T16:12:03Z",
             "owner": "MammothGrowth",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685843424,
             "language": "Python",
             "last_commit": "2023-09-07T16:57:33Z",
             "owner": "trouze",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 755196488,
             "language": "JavaScript",
             "last_commit": "2024-02-09T20:06:35Z",
             "owner": "nicholasyager",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517628513,
             "language": "TypeScript",
             "last_commit": "2022-10-26T17:31:29Z",
             "owner": "b-per",
@@ -204,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401275197,
             "language": "HTML",
             "last_commit": "2026-08-18T10:41:21Z",
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2392
+            "stars": 2393
           }
         },
         {
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306479180,
             "language": "Shell",
             "last_commit": "2024-12-16T16:31:42Z",
             "owner": "calogica",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 788686533,
             "language": "Python",
             "last_commit": "2026-07-23T23:25:42Z",
             "owner": "DataKitchen",
@@ -246,8 +262,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117377856,
             "language": "Python",
-            "last_commit": "2026-08-18T16:29:31Z",
+            "last_commit": "2026-08-19T11:55:36Z",
             "owner": "rasinmuhammed",
             "repo": "misata",
             "stars": 66
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588057098,
             "language": "PLpgSQL",
             "last_commit": "2026-08-18T02:39:29Z",
             "owner": "infinitelambda",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198573394,
             "language": "Python",
             "last_commit": "2026-08-18T18:48:05Z",
             "owner": "rbmuller",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804582442,
             "language": null,
             "last_commit": "2025-08-24T00:45:23Z",
             "owner": "bruno-szdl",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 645482246,
             "language": "Python",
             "last_commit": "2026-08-17T07:17:43Z",
             "owner": "pgoslatara",
@@ -322,18 +343,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 856594980,
             "language": "Python",
             "last_commit": "2025-12-12T08:39:42Z",
             "owner": "pgoslatara",
             "repo": "dbt-cloud-download-artifacts-action",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "dbt-docs-to-notion",
-          "description": "A GitHub action for exporting dbt model docs to a Notion database.",
-          "children": []
         }
       ],
       "title": "CI/CD"
@@ -348,11 +364,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155790228,
             "language": "Python",
             "last_commit": "2026-08-18T14:51:27Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9855
+            "stars": 9854
           }
         },
         {
@@ -362,11 +379,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1168055015,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:01:37Z",
+            "last_commit": "2026-08-19T12:13:41Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 792
+            "stars": 793
           }
         },
         {
@@ -376,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325122821,
             "language": "Python",
             "last_commit": "2026-08-17T21:43:11Z",
             "owner": "dbt-checkpoint",
@@ -390,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410144084,
             "language": "Python",
             "last_commit": "2026-08-15T19:33:23Z",
             "owner": "z3z1ma",
@@ -404,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288509390,
             "language": "JavaScript",
             "last_commit": "2026-08-17T21:28:02Z",
             "owner": "AltimateAI",
@@ -418,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387531661,
             "language": "Python",
             "last_commit": "2026-08-18T02:59:26Z",
             "owner": "tconbeer",
@@ -432,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370080434,
             "language": null,
             "last_commit": "2022-10-12T19:59:12Z",
             "owner": "erika-e",
@@ -446,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 506920410,
             "language": "Python",
             "last_commit": "2026-08-17T21:47:09Z",
             "owner": "datnguye",
@@ -460,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756878861,
             "language": "Python",
             "last_commit": "2026-08-05T12:58:38Z",
             "owner": "PicnicSupermarket",
@@ -474,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666556220,
             "language": "Python",
             "last_commit": "2026-06-25T17:25:03Z",
             "owner": "nicholasyager",
@@ -488,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872745792,
             "language": "Python",
             "last_commit": "2025-03-28T03:10:56Z",
             "owner": "canva-public",
@@ -502,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 755860108,
             "language": "Python",
             "last_commit": "2026-04-01T17:17:34Z",
             "owner": "pragunbhutani",
@@ -516,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589358525,
             "language": "Lua",
             "last_commit": "2025-06-19T16:27:59Z",
             "owner": "PedramNavid",
@@ -530,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 623167230,
             "language": "Python",
             "last_commit": "2025-01-21T19:47:44Z",
             "owner": "dbt-labs",
@@ -544,8 +574,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819995040,
             "language": "Python",
-            "last_commit": "2026-08-18T08:44:38Z",
+            "last_commit": "2026-08-19T07:44:09Z",
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
             "stars": 126
@@ -558,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136890957,
             "language": "TypeScript",
             "last_commit": "2026-02-01T14:28:04Z",
             "owner": "data-diving",
@@ -572,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 464753497,
             "language": "Python",
             "last_commit": "2026-08-15T22:14:15Z",
             "owner": "yu-iskw",
@@ -586,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453680267,
             "language": "Shell",
             "last_commit": "2023-07-26T16:21:14Z",
             "owner": "Infused-Insight",
@@ -600,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114250791,
             "language": "Python",
             "last_commit": "2026-05-30T18:17:25Z",
             "owner": "rezer-bleede",
@@ -614,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379691756,
             "language": "Python",
             "last_commit": "2024-01-25T15:15:42Z",
             "owner": "voi-oss",
@@ -628,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452239599,
             "language": "Python",
             "last_commit": "2026-07-06T02:32:57Z",
             "owner": "godatadriven",
@@ -642,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102030883,
             "language": "Python",
             "last_commit": "2020-03-26T11:54:14Z",
             "owner": "dbt-labs",
@@ -656,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351936264,
             "language": "Python",
             "last_commit": "2022-06-02T12:55:07Z",
             "owner": "gnilrets",
@@ -670,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379409760,
             "language": "Python",
             "last_commit": "2023-08-08T15:54:16Z",
             "owner": "datacoves",
@@ -684,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589901690,
             "language": "Python",
             "last_commit": "2026-07-31T11:49:46Z",
             "owner": "ScalefreeCOM",
@@ -698,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748009037,
             "language": "Python",
             "last_commit": "2026-07-29T12:21:41Z",
             "owner": "AltimateAI",
@@ -712,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1097669230,
             "language": "Rust",
             "last_commit": "2026-08-17T10:28:40Z",
             "owner": "feliblo",
@@ -726,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457570824,
             "language": "Python",
             "last_commit": "2025-05-08T15:46:24Z",
             "owner": "dpguthrie",
@@ -740,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640378092,
             "language": "Python",
             "last_commit": "2024-04-25T01:44:51Z",
             "owner": "sfu-db",
@@ -754,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321656526,
             "language": "Python",
             "last_commit": "2021-11-02T14:30:08Z",
             "owner": "autotraderuk",
@@ -768,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 623954112,
             "language": "MDX",
             "last_commit": "2024-12-04T17:12:32Z",
             "owner": "dbt-labs",
@@ -782,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519863844,
             "language": "Python",
             "last_commit": "2026-07-05T07:45:37Z",
             "owner": "z3z1ma",
@@ -796,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 613133208,
             "language": "Python",
             "last_commit": "2023-06-13T16:27:13Z",
             "owner": "sungchun12",
@@ -810,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 791162442,
             "language": "Kotlin",
             "last_commit": "2026-03-04T19:07:24Z",
             "owner": "ramonvermeulen",
@@ -824,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 769580581,
             "language": "Go",
             "last_commit": "2026-01-23T03:50:18Z",
             "owner": "gwenwindflower",
@@ -838,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799788733,
             "language": "TypeScript",
             "last_commit": "2025-04-20T20:12:37Z",
             "owner": "montara-io",
@@ -852,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346486468,
             "language": "Python",
             "last_commit": "2022-10-27T08:48:02Z",
             "owner": "brooklyn-data",
@@ -866,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890593589,
             "language": "TypeScript",
             "last_commit": "2025-02-14T15:17:08Z",
             "owner": "metaplane",
@@ -880,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468815924,
             "language": "Go",
             "last_commit": "2022-04-11T14:41:02Z",
             "owner": "coterahq",
@@ -894,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485912504,
             "language": "Python",
             "last_commit": "2022-10-19T02:45:24Z",
             "owner": "aaronbannin",
@@ -908,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608413551,
             "language": "Python",
             "last_commit": "2023-07-27T14:18:07Z",
             "owner": "Oracen",
@@ -922,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 542340662,
             "language": "Python",
             "last_commit": "2024-09-23T16:13:50Z",
             "owner": "Stevedow99",
@@ -936,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 670888131,
             "language": "Python",
             "last_commit": "2024-03-25T14:08:56Z",
             "owner": "fredbrowne",
@@ -950,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563983352,
             "language": "CUE",
             "last_commit": "2024-02-14T02:52:28Z",
             "owner": "gilcrest",
@@ -964,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136866916,
             "language": "Python",
             "last_commit": "2026-01-24T19:43:19Z",
             "owner": "data-diving",
@@ -978,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1143599301,
             "language": "TypeScript",
             "last_commit": "2026-06-10T05:30:14Z",
             "owner": "liam-machine",
@@ -992,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080704540,
             "language": "Python",
             "last_commit": "2025-12-13T09:06:58Z",
             "owner": "aleenprd",
@@ -1006,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 623227678,
             "language": "Python",
             "last_commit": "2026-02-15T03:01:28Z",
             "owner": "GJMcClintock",
@@ -1020,24 +1084,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 789832542,
             "language": "TypeScript",
             "last_commit": "2026-08-12T21:34:38Z",
             "owner": "Oisix",
             "repo": "dbt-column-lineage",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "drift",
-          "description": "Multi-dialect SQL linter and formatter in Rust. Postgres, MySQL, SQLite, BigQuery, Snowflake. Single binary, ~448x faster than SQLFluff on plain SQL, with SARIF output for GitHub code scanning and a baseline mode for legacy adoption.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "dbt Style Guide",
-          "description": "Developing styleguide often referred in PR templates.",
-          "children": []
         }
       ],
       "title": "Utilities"
@@ -1052,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 467151498,
             "language": "Python",
             "last_commit": "2024-05-17T13:45:03Z",
             "owner": "datafold",
@@ -1066,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191233384,
             "language": "Makefile",
             "last_commit": "2026-07-28T10:41:17Z",
             "owner": "dbt-labs",
@@ -1080,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227567532,
             "language": "Python",
             "last_commit": "2026-08-06T06:47:51Z",
             "owner": "gouline",
@@ -1094,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445580280,
             "language": "Shell",
             "last_commit": "2026-07-30T17:42:21Z",
             "owner": "dbt-labs",
@@ -1108,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419328607,
             "language": "Shell",
             "last_commit": "2026-05-13T16:11:44Z",
             "owner": "EqualExperts",
@@ -1122,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191221181,
             "language": null,
             "last_commit": "2026-05-19T12:18:10Z",
             "owner": "dbt-labs",
@@ -1136,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335676992,
             "language": "Shell",
             "last_commit": "2026-08-10T11:36:59Z",
             "owner": "brooklyn-data",
@@ -1150,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215143006,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-24T13:16:10Z",
             "owner": "dbt-labs",
@@ -1164,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 551573284,
             "language": null,
             "last_commit": "2026-03-18T18:08:48Z",
             "owner": "get-select",
@@ -1178,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421022206,
             "language": "Python",
             "last_commit": "2026-04-29T08:49:19Z",
             "owner": "slidoapp",
@@ -1192,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430920132,
             "language": "Python",
             "last_commit": "2025-12-17T17:26:40Z",
             "owner": "dbt-labs",
@@ -1206,8 +1270,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510750851,
             "language": "PLSQL",
-            "last_commit": "2026-08-17T14:23:53Z",
+            "last_commit": "2026-08-19T10:27:28Z",
             "owner": "ScalefreeCOM",
             "repo": "datavault4dbt",
             "stars": 200
@@ -1220,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357486004,
             "language": "Python",
             "last_commit": "2024-08-20T13:04:11Z",
             "owner": "lightdash",
@@ -1234,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327861595,
             "language": "Python",
             "last_commit": "2023-07-03T21:38:18Z",
             "owner": "omnata-labs",
@@ -1248,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470994008,
             "language": "SQL",
             "last_commit": "2026-05-28T19:15:12Z",
             "owner": "Snowflake-Labs",
@@ -1262,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434528379,
             "language": "Python",
             "last_commit": "2026-02-12T08:34:36Z",
             "owner": "slidoapp",
@@ -1276,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605428848,
             "language": "Python",
             "last_commit": "2026-08-10T15:53:15Z",
             "owner": "microsoft",
@@ -1290,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315352544,
             "language": "SQL",
             "last_commit": "2026-04-16T16:10:13Z",
             "owner": "tnightengale",
@@ -1304,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411451561,
             "language": "Go",
             "last_commit": "2026-08-12T11:22:09Z",
             "owner": "dbt-labs",
@@ -1318,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570538563,
             "language": "Python",
             "last_commit": "2026-03-12T19:50:54Z",
             "owner": "godatadriven",
@@ -1332,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612783707,
             "language": "Python",
             "last_commit": "2025-12-28T00:02:49Z",
             "owner": "dwreeves",
@@ -1346,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269665892,
             "language": "Makefile",
             "last_commit": "2026-02-07T20:46:39Z",
             "owner": "kristeligt-dagblad",
@@ -1360,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 687511255,
             "language": "Python",
             "last_commit": "2025-03-18T07:31:42Z",
             "owner": "binste",
@@ -1374,6 +1450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 743632470,
             "language": null,
             "last_commit": "2025-11-25T11:05:27Z",
             "owner": "AxelThevenot",
@@ -1388,6 +1465,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342590039,
             "language": "Python",
             "last_commit": "2024-07-31T23:09:46Z",
             "owner": "Dashlane",
@@ -1402,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374057386,
             "language": null,
             "last_commit": "2026-03-15T06:31:52Z",
             "owner": "entechlog",
@@ -1416,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 294827932,
             "language": "Go",
             "last_commit": "2023-05-04T14:07:28Z",
             "owner": "monzo",
@@ -1430,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764896453,
             "language": "Python",
             "last_commit": "2026-08-17T21:20:08Z",
             "owner": "microsoft",
@@ -1444,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 171780255,
             "language": "Python",
             "last_commit": "2023-09-28T11:10:03Z",
             "owner": "dbt-labs",
@@ -1458,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 599050565,
             "language": null,
             "last_commit": "2026-03-06T18:22:12Z",
             "owner": "get-select",
@@ -1472,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472855784,
             "language": "Makefile",
             "last_commit": "2023-02-13T18:14:10Z",
             "owner": "pvcy",
@@ -1486,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429502684,
             "language": "Python",
             "last_commit": "2023-02-07T08:35:04Z",
             "owner": "intellishore",
@@ -1500,6 +1585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715808928,
             "language": "Python",
             "last_commit": "2026-06-19T09:12:32Z",
             "owner": "sdebruyn",
@@ -1514,6 +1600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 729854668,
             "language": "Shell",
             "last_commit": "2024-02-28T04:50:18Z",
             "owner": "kgmcquate",
@@ -1528,6 +1615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458211476,
             "language": "Python",
             "last_commit": "2022-12-16T14:08:38Z",
             "owner": "fal-ai",
@@ -1542,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 634683318,
             "language": "Python",
             "last_commit": "2026-02-05T22:57:02Z",
             "owner": "arnoN7",
@@ -1556,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668681017,
             "language": "Jupyter Notebook",
             "last_commit": "2024-01-07T17:01:50Z",
             "owner": "leogodin217",
@@ -1570,6 +1660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295830748,
             "language": "Shell",
             "last_commit": "2026-08-12T21:31:11Z",
             "owner": "fivetran",
@@ -1584,6 +1675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610478577,
             "language": "Shell",
             "last_commit": "2025-02-14T04:16:02Z",
             "owner": "techindicium",
@@ -1598,6 +1690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 926683253,
             "language": null,
             "last_commit": "2026-08-14T09:24:23Z",
             "owner": "godatadriven",
@@ -1612,6 +1705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742244235,
             "language": "PLpgSQL",
             "last_commit": "2026-07-02T05:06:23Z",
             "owner": "infinitelambda",
@@ -1626,6 +1720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 770207061,
             "language": null,
             "last_commit": "2026-07-02T05:02:27Z",
             "owner": "infinitelambda",
@@ -1640,6 +1735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365628516,
             "language": null,
             "last_commit": "2021-05-11T05:41:42Z",
             "owner": "marco-roy",
@@ -1654,6 +1750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 737884204,
             "language": "PLpgSQL",
             "last_commit": "2025-06-20T22:35:38Z",
             "owner": "irvingpop",
@@ -1668,6 +1765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617291193,
             "language": "TSQL",
             "last_commit": "2023-10-21T03:24:46Z",
             "owner": "datnguye",
@@ -1682,6 +1780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 840862315,
             "language": null,
             "last_commit": "2026-08-07T18:09:37Z",
             "owner": "Matts52",
@@ -1696,6 +1795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 533838229,
             "language": null,
             "last_commit": "2025-02-03T23:55:02Z",
             "owner": "dbt-labs",
@@ -1710,6 +1810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577265116,
             "language": null,
             "last_commit": "2025-03-07T12:47:58Z",
             "owner": "anjane-tech",
@@ -1724,6 +1825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718365316,
             "language": "Shell",
             "last_commit": "2026-01-15T20:03:33Z",
             "owner": "data-diving",
@@ -1738,6 +1840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 677673353,
             "language": null,
             "last_commit": "2023-08-13T09:07:19Z",
             "owner": "danthelion",
@@ -1752,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588057994,
             "language": "Shell",
             "last_commit": "2023-02-17T04:34:21Z",
             "owner": "infinitelambda",
@@ -1766,6 +1870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660587779,
             "language": "Shell",
             "last_commit": "2024-03-07T12:47:34Z",
             "owner": "Nipsuli",
@@ -1780,18 +1885,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1196470541,
             "language": null,
             "last_commit": "2026-03-30T18:24:08Z",
             "owner": "sutrolabs",
             "repo": "dbt_census_utils",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "dbt-yaml-check",
-          "description": "Checks that columns defined in YAML also exist in SQL.",
-          "children": []
         }
       ],
       "title": "Packages"
@@ -1806,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 353140756,
             "language": null,
             "last_commit": "2024-09-12T20:39:40Z",
             "owner": "dbt-labs",
@@ -1820,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324604176,
             "language": "Python",
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
@@ -1834,11 +1936,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 681997279,
             "language": null,
             "last_commit": "2023-12-28T02:55:36Z",
             "owner": "InfuseAI",
             "repo": "awesome-public-dbt-projects",
-            "stars": 212
+            "stars": 213
           }
         },
         {
@@ -1848,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323735617,
             "language": "Python",
             "last_commit": "2023-08-23T20:18:51Z",
             "owner": "astronomer",
@@ -1862,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 681870533,
             "language": "Python",
             "last_commit": "2025-08-27T04:08:37Z",
             "owner": "dagster-io",
@@ -1876,6 +1981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352799190,
             "language": "HTML",
             "last_commit": "2021-07-14T16:58:41Z",
             "owner": "spbail",
@@ -1890,6 +1996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303425005,
             "language": "Python",
             "last_commit": "2022-07-08T12:20:49Z",
             "owner": "ftupas",
@@ -1904,6 +2011,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 221943374,
             "language": "Makefile",
             "last_commit": "2022-10-11T03:51:03Z",
             "owner": "dbt-labs",
@@ -1918,6 +2026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 781414486,
             "language": "Python",
             "last_commit": "2026-02-07T16:23:54Z",
             "owner": "make-open-data",
@@ -1932,6 +2041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321096976,
             "language": "PLpgSQL",
             "last_commit": "2023-05-17T20:17:19Z",
             "owner": "randypitcherii",
@@ -1946,6 +2056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370383672,
             "language": "Dockerfile",
             "last_commit": "2026-05-19T21:20:19Z",
             "owner": "davidgasquez",
@@ -1960,6 +2071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233140465,
             "language": "PLSQL",
             "last_commit": "2020-03-01T22:13:46Z",
             "owner": "randypitcherii",
@@ -1974,6 +2086,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 237479715,
             "language": "TSQL",
             "last_commit": "2020-04-28T17:45:16Z",
             "owner": "dbt-labs",
@@ -1988,6 +2101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 590481291,
             "language": "Python",
             "last_commit": "2023-01-20T02:39:45Z",
             "owner": "jonathanneo",
@@ -2002,6 +2116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612025396,
             "language": "JavaScript",
             "last_commit": "2023-06-28T02:06:58Z",
             "owner": "matsonj",
@@ -2016,6 +2131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427280383,
             "language": "Makefile",
             "last_commit": "2022-03-27T07:54:49Z",
             "owner": "slve",
@@ -2030,6 +2146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 922385435,
             "language": null,
             "last_commit": "2025-03-06T03:30:54Z",
             "owner": "collinrlenon",
@@ -2044,6 +2161,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 590187275,
             "language": null,
             "last_commit": "2023-03-09T12:56:33Z",
             "owner": "dbt-labs",
@@ -2058,6 +2176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774553905,
             "language": null,
             "last_commit": "2024-03-26T20:36:38Z",
             "owner": "elliotgunn",
@@ -2072,6 +2191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748400063,
             "language": null,
             "last_commit": "2024-02-01T07:08:00Z",
             "owner": "jpooksy",
@@ -2086,6 +2206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648819307,
             "language": "Python",
             "last_commit": "2023-06-28T01:12:52Z",
             "owner": "preset-io",
@@ -2100,31 +2221,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 674351351,
             "language": null,
             "last_commit": "2024-01-15T09:03:12Z",
             "owner": "nszoni",
             "repo": "gee_production_gatekeepers",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "f1-data-pipeline",
-          "description": "F1 Data Pipeline.",
-          "children": []
         }
       ],
       "title": "Sample Projects"
-    },
-    {
-      "description": "Thanks for all the great resources! Can't see your avatar? Check the contribution guide on how you can submit your resources to the community!",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:52:01.100Z",
+    "last_updated": "2026-08-19T12:25:45.628Z",
     "original_repository": "Hiflylabs/awesome-dbt",
+    "original_repository_id": 415350443,
     "original_repository_sha": "99d6b242339729b7c6304fa70a201509873821b2",
     "enhanced_repository": "enhansome/enhansome-dbt",
     "enhanced_repository_description": null,
