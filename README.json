@@ -12,7 +12,7 @@
             "archived": false,
             "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T18:34:57Z",
+            "last_commit": "2026-08-21T21:48:08Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 209
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:21:52Z",
+            "last_commit": "2026-08-22T16:11:11Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6068
+            "stars": 6071
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 730384901,
             "language": "Python",
-            "last_commit": "2026-08-21T20:33:11Z",
+            "last_commit": "2026-08-22T11:24:21Z",
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 946
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T11:54:46Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 680
+            "stars": 681
           }
         },
         {
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 401275197,
             "language": "HTML",
-            "last_commit": "2026-08-21T17:56:11Z",
+            "last_commit": "2026-08-22T09:12:43Z",
             "owner": "elementary-data",
             "repo": "elementary",
             "stars": 2396
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-20T16:10:52Z",
             "owner": "rasinmuhammed",
             "repo": "misata",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 155790228,
             "language": "Python",
-            "last_commit": "2026-08-18T14:51:27Z",
+            "last_commit": "2026-08-22T08:01:18Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
             "stars": 9860
@@ -381,10 +381,10 @@
             "archived": false,
             "id": 1168055015,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:47:16Z",
+            "last_commit": "2026-08-22T13:42:56Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 793
+            "stars": 794
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-18T02:59:26Z",
             "owner": "tconbeer",
             "repo": "sqlfmt",
-            "stars": 545
+            "stars": 546
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-21T11:31:15Z",
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -1512,7 +1512,7 @@
             "archived": false,
             "id": 764896453,
             "language": "Python",
-            "last_commit": "2026-08-20T21:29:56Z",
+            "last_commit": "2026-08-22T03:01:11Z",
             "owner": "microsoft",
             "repo": "dbt-fabricspark",
             "stars": 64
@@ -1595,6 +1595,21 @@
         },
         {
           "node_type": "item",
+          "title": "dbt-incremental-stream",
+          "description": "A dbt package for Snowflake Streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634683318,
+            "language": "Python",
+            "last_commit": "2026-02-05T22:57:02Z",
+            "owner": "arnoN7",
+            "repo": "dbt-incremental-stream",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
           "title": "dbt-testgen",
           "description": "Generate dbt tests based on sample data.",
           "children": [],
@@ -1621,21 +1636,6 @@
             "owner": "fal-ai",
             "repo": "dbt_feature_store",
             "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dbt-incremental-stream",
-          "description": "A dbt package for Snowflake Streams.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 634683318,
-            "language": "Python",
-            "last_commit": "2026-02-05T22:57:02Z",
-            "owner": "arnoN7",
-            "repo": "dbt-incremental-stream",
-            "stars": 38
           }
         },
         {
@@ -1911,7 +1911,7 @@
             "last_commit": "2024-09-12T20:39:40Z",
             "owner": "dbt-labs",
             "repo": "jaffle-shop-classic",
-            "stars": 545
+            "stars": 544
           }
         },
         {
@@ -1926,7 +1926,7 @@
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 474
+            "stars": 475
           }
         },
         {
@@ -2234,7 +2234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:51:56.467Z",
+    "last_updated": "2026-08-22T20:50:41.457Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_id": 415350443,
     "original_repository_sha": "99d6b242339729b7c6304fa70a201509873821b2",
