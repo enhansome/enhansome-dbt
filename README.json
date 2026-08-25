@@ -12,7 +12,7 @@
             "archived": false,
             "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:58:48Z",
+            "last_commit": "2026-08-25T05:05:24Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 210
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:52:33Z",
+            "last_commit": "2026-08-25T03:27:16Z",
             "owner": "lightdash",
             "repo": "lightdash",
             "stars": 6075
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T15:01:04Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3859
+            "stars": 3860
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 730384901,
             "language": "Python",
-            "last_commit": "2026-08-24T19:45:16Z",
+            "last_commit": "2026-08-24T23:02:34Z",
             "owner": "fal-ai",
             "repo": "fal",
-            "stars": 947
+            "stars": 946
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 947516890,
             "language": "Python",
-            "last_commit": "2026-08-21T01:27:13Z",
+            "last_commit": "2026-08-25T03:34:32Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
             "stars": 598
@@ -786,7 +786,7 @@
             "archived": false,
             "id": 748009037,
             "language": "Python",
-            "last_commit": "2026-08-20T22:52:55Z",
+            "last_commit": "2026-08-25T05:39:20Z",
             "owner": "AltimateAI",
             "repo": "datapilot-cli",
             "stars": 43
@@ -1041,7 +1041,7 @@
             "archived": false,
             "id": 1173509602,
             "language": "Rust",
-            "last_commit": "2026-08-24T01:22:16Z",
+            "last_commit": "2026-08-25T05:10:21Z",
             "owner": "eitsupi",
             "repo": "dlin",
             "stars": 13
@@ -2324,7 +2324,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:00:14.604Z",
+    "last_updated": "2026-08-25T06:02:12.823Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_id": 415350443,
     "original_repository_sha": "34168b39da016bc253b32cfe716ceffd20010f07",
