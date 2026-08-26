@@ -12,7 +12,7 @@
             "archived": false,
             "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T20:36:27Z",
+            "last_commit": "2026-08-26T20:33:43Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 210
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T20:24:03Z",
+            "last_commit": "2026-08-26T23:29:13Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6080
+            "stars": 6084
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-25T12:01:11Z",
+            "last_commit": "2026-08-26T18:58:42Z",
             "owner": "bruin-data",
             "repo": "ingestr",
             "stars": 3862
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 730384901,
             "language": "Python",
-            "last_commit": "2026-08-25T20:40:46Z",
+            "last_commit": "2026-08-26T22:33:46Z",
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 946
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-25T08:37:25Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 686
+            "stars": 688
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 401275197,
             "language": "HTML",
-            "last_commit": "2026-08-25T06:41:27Z",
+            "last_commit": "2026-08-26T09:56:16Z",
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2397
+            "stars": 2398
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-07-23T23:25:42Z",
+            "last_commit": "2026-08-26T18:42:07Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 1117377856,
             "language": "Python",
-            "last_commit": "2026-08-24T17:11:05Z",
+            "last_commit": "2026-08-26T09:23:48Z",
             "owner": "rasinmuhammed",
             "repo": "misata",
             "stars": 68
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 1198573394,
             "language": "Python",
-            "last_commit": "2026-08-20T21:06:38Z",
+            "last_commit": "2026-08-26T14:12:50Z",
             "owner": "rbmuller",
             "repo": "scherlok",
             "stars": 9
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 155790228,
             "language": "Python",
-            "last_commit": "2026-08-25T12:34:02Z",
+            "last_commit": "2026-08-26T00:37:46Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9861
+            "stars": 9860
           }
         },
         {
@@ -411,10 +411,10 @@
             "archived": false,
             "id": 1168055015,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T18:43:01Z",
+            "last_commit": "2026-08-26T23:30:23Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 795
+            "stars": 796
           }
         },
         {
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 288509390,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T15:13:42Z",
+            "last_commit": "2026-08-26T07:03:32Z",
             "owner": "AltimateAI",
             "repo": "vscode-dbt-power-user",
             "stars": 583
@@ -516,7 +516,7 @@
             "archived": false,
             "id": 756878861,
             "language": "Python",
-            "last_commit": "2026-08-05T12:58:38Z",
+            "last_commit": "2026-08-26T07:53:58Z",
             "owner": "PicnicSupermarket",
             "repo": "dbt-score",
             "stars": 246
@@ -624,7 +624,7 @@
             "last_commit": "2026-02-01T14:28:04Z",
             "owner": "data-diving",
             "repo": "dbt-ui",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-05-30T18:17:25Z",
             "owner": "rezer-bleede",
             "repo": "dbt-Workbench",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -1161,7 +1161,7 @@
             "archived": false,
             "id": 789832542,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T21:35:03Z",
+            "last_commit": "2026-08-26T21:36:48Z",
             "owner": "Oisix",
             "repo": "dbt-column-lineage",
             "stars": 1
@@ -1200,7 +1200,7 @@
             "last_commit": "2024-05-17T13:45:03Z",
             "owner": "datafold",
             "repo": "data-diff",
-            "stars": 2990
+            "stars": 2991
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2026-07-28T10:41:17Z",
             "owner": "dbt-labs",
             "repo": "dbt-codegen",
-            "stars": 670
+            "stars": 671
           }
         },
         {
@@ -1290,7 +1290,7 @@
             "last_commit": "2026-08-10T11:36:59Z",
             "owner": "brooklyn-data",
             "repo": "dbt_artifacts",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -1320,7 +1320,7 @@
             "last_commit": "2026-03-18T18:08:48Z",
             "owner": "get-select",
             "repo": "dbt-snowflake-monitoring",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -1437,10 +1437,10 @@
             "archived": false,
             "id": 605428848,
             "language": "Python",
-            "last_commit": "2026-08-24T15:57:40Z",
+            "last_commit": "2026-08-26T18:46:30Z",
             "owner": "microsoft",
             "repo": "dbt-fabric",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -1605,7 +1605,7 @@
             "last_commit": "2026-08-24T15:37:51Z",
             "owner": "microsoft",
             "repo": "dbt-fabricspark",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -2031,7 +2031,7 @@
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 480
+            "stars": 483
           }
         },
         {
@@ -2339,7 +2339,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:57:10.003Z",
+    "last_updated": "2026-08-26T23:59:37.991Z",
     "original_repository": "Hiflylabs/awesome-dbt",
     "original_repository_id": 415350443,
     "original_repository_sha": "4a27a5b24287d8caf83f0643c9787e0dc24ff78e",
