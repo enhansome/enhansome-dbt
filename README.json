@@ -12,7 +12,7 @@
             "archived": false,
             "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T20:33:43Z",
+            "last_commit": "2026-08-27T11:23:45Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 210
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:29:13Z",
+            "last_commit": "2026-08-27T11:33:32Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6084
+            "stars": 6094
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-26T18:58:42Z",
+            "last_commit": "2026-08-27T10:58:35Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3862
+            "stars": 3863
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-25T08:37:25Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 688
+            "stars": 690
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-26T09:56:16Z",
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2398
+            "stars": 2399
           }
         },
         {
@@ -411,10 +411,10 @@
             "archived": false,
             "id": 1168055015,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:30:23Z",
+            "last_commit": "2026-08-27T11:00:20Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 796
+            "stars": 800
           }
         },
         {
@@ -636,7 +636,7 @@
             "archived": false,
             "id": 464753497,
             "language": "Python",
-            "last_commit": "2026-08-20T12:38:43Z",
+            "last_commit": "2026-08-27T11:34:32Z",
             "owner": "yu-iskw",
             "repo": "dbt-artifacts-parser",
             "stars": 115
@@ -1041,7 +1041,7 @@
             "archived": false,
             "id": 1173509602,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:10:21Z",
+            "last_commit": "2026-08-27T02:27:47Z",
             "owner": "eitsupi",
             "repo": "dlin",
             "stars": 13
@@ -1124,6 +1124,21 @@
         },
         {
           "node_type": "item",
+          "title": "sqllens",
+          "description": "TypeScript SQL parser and static analyzer: type inference, schema diagnostics, and column-level lineage. Reads Jinja-templated SQL (dbt models) natively, without rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1267655067,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T15:43:17Z",
+            "owner": "NiclasOlofsson",
+            "repo": "sqllens",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "dbt_tld",
           "description": "A self-updating dbt library that will maintain a list of current IANA/ICANN recognized top level domains.",
           "children": [],
@@ -1135,21 +1150,6 @@
             "owner": "GJMcClintock",
             "repo": "dbt_tld",
             "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sqllens",
-          "description": "TypeScript SQL parser and static analyzer: type inference, schema diagnostics, and column-level lineage. Reads Jinja-templated SQL (dbt models) natively, without rendering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1267655067,
-            "language": "TypeScript",
-            "last_commit": "2026-07-26T15:43:17Z",
-            "owner": "NiclasOlofsson",
-            "repo": "sqllens",
-            "stars": 2
           }
         },
         {
@@ -1602,7 +1602,7 @@
             "archived": false,
             "id": 764896453,
             "language": "Python",
-            "last_commit": "2026-08-24T15:37:51Z",
+            "last_commit": "2026-08-27T03:34:02Z",
             "owner": "microsoft",
             "repo": "dbt-fabricspark",
             "stars": 65
@@ -2339,9 +2339,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:59:37.991Z",
-    "original_repository": "Hiflylabs/awesome-dbt",
-    "original_repository_id": 415350443,
+    "last_updated": "2026-08-27T11:35:38.696Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 415350443,
+      "language": null,
+      "last_commit": "2026-08-25T06:26:04Z",
+      "owner": "Hiflylabs",
+      "repo": "awesome-dbt",
+      "stars": 1721
+    },
     "original_repository_sha": "4a27a5b24287d8caf83f0643c9787e0dc24ff78e",
     "enhanced_repository": "enhansome/enhansome-dbt",
     "enhanced_repository_description": null,
