@@ -12,11 +12,12 @@
             "archived": false,
             "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:23:45Z",
+            "last_commit": "2026-08-27T18:12:59Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "flexanalytics",
             "repo": "dbt-business-intelligence",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "zsombor-flds",
             "repo": "dbt-jinja-cheatsheet",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         }
       ],
       "title": "How To"
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:33:32Z",
+            "last_commit": "2026-08-28T02:56:00Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6094
-          }
+            "stars": 6096
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-27T10:58:35Z",
+            "last_commit": "2026-08-27T19:52:08Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3863
-          }
+            "stars": 3885
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 730384901,
             "language": "Python",
-            "last_commit": "2026-08-26T22:33:46Z",
+            "last_commit": "2026-08-27T23:15:29Z",
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 946
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 1130059064,
             "language": "Python",
-            "last_commit": "2026-08-25T08:37:25Z",
+            "last_commit": "2026-08-27T17:43:21Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
             "stars": 690
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
             "stars": 599
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "prefect-archive",
             "repo": "prefect-dbt",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "MammothGrowth",
             "repo": "dbt-cli-mcp",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "trouze",
             "repo": "modal-dbt",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "nicholasyager",
             "repo": "dbt-streamdeck",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "b-per",
             "repo": "raycast-dbt-cloud-metadata",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         }
       ],
       "title": "Integrations"
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 401275197,
             "language": "HTML",
-            "last_commit": "2026-08-26T09:56:16Z",
+            "last_commit": "2026-08-27T13:09:27Z",
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2399
-          }
+            "stars": 2400
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "calogica",
             "repo": "dbt-expectations",
             "stars": 1233
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-08-26T18:42:07Z",
+            "last_commit": "2026-08-27T22:18:46Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "rasinmuhammed",
             "repo": "misata",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "infinitelambda",
             "repo": "dq-tools",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "rbmuller",
             "repo": "scherlok",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "OGsiji",
             "repo": "data-contract-validator",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "aegis-dq",
             "repo": "aegis-dq",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         }
       ],
       "title": "Data Quality"
@@ -349,7 +370,8 @@
             "owner": "bruno-szdl",
             "repo": "dbt-ci-cd",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "pgoslatara",
             "repo": "dbt-beyond-the-basics",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "pgoslatara",
             "repo": "dbt-cloud-download-artifacts-action",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         }
       ],
       "title": "CI/CD"
@@ -399,8 +423,9 @@
             "last_commit": "2026-08-26T00:37:46Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9860
-          }
+            "stars": 9862
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -411,11 +436,12 @@
             "archived": false,
             "id": 1168055015,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:00:20Z",
+            "last_commit": "2026-08-28T01:23:44Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 800
-          }
+            "stars": 801
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -429,8 +455,9 @@
             "last_commit": "2026-08-17T21:43:11Z",
             "owner": "dbt-checkpoint",
             "repo": "dbt-checkpoint",
-            "stars": 762
-          }
+            "stars": 764
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "z3z1ma",
             "repo": "dbt-osmosis",
             "stars": 639
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -459,8 +487,9 @@
             "last_commit": "2026-08-26T07:03:32Z",
             "owner": "AltimateAI",
             "repo": "vscode-dbt-power-user",
-            "stars": 583
-          }
+            "stars": 584
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -474,8 +503,9 @@
             "last_commit": "2026-08-24T03:18:33Z",
             "owner": "tconbeer",
             "repo": "sqlfmt",
-            "stars": 546
-          }
+            "stars": 547
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "erika-e",
             "repo": "dbt-tips",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "datnguye",
             "repo": "dbterd",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "PicnicSupermarket",
             "repo": "dbt-score",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "nicholasyager",
             "repo": "dbt-loom",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "canva-public",
             "repo": "dbt-column-lineage-extractor",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "pragunbhutani",
             "repo": "dbt-llm-agent",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,24 @@
             "owner": "PedramNavid",
             "repo": "dbtpal",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dbt-bouncer",
+          "description": "Tool to configure and enforce conventions for your dbt project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819995040,
+            "language": "Python",
+            "last_commit": "2026-08-25T13:34:20Z",
+            "owner": "godatadriven",
+            "repo": "dbt-bouncer",
+            "stars": 128
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -595,22 +648,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-meshify",
             "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dbt-bouncer",
-          "description": "Tool to configure and enforce conventions for your dbt project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 819995040,
-            "language": "Python",
-            "last_commit": "2026-08-25T13:34:20Z",
-            "owner": "godatadriven",
-            "repo": "dbt-bouncer",
-            "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "data-diving",
             "repo": "dbt-ui",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "yu-iskw",
             "repo": "dbt-artifacts-parser",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -655,7 +696,8 @@
             "owner": "Infused-Insight",
             "repo": "fzf-dbt",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -670,7 +712,8 @@
             "owner": "rezer-bleede",
             "repo": "dbt-Workbench",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -685,7 +728,8 @@
             "owner": "voi-oss",
             "repo": "dbt-exposures-crawler",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -700,7 +744,8 @@
             "owner": "godatadriven",
             "repo": "pytest-dbt-core",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -715,7 +760,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-sql-formatter",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -730,7 +776,8 @@
             "owner": "gnilrets",
             "repo": "dbt-container-skeleton",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -745,7 +792,8 @@
             "owner": "datacoves",
             "repo": "cookiecutter-dbt",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "ScalefreeCOM",
             "repo": "turbovault4dbt",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -774,8 +823,9 @@
             "last_commit": "2026-08-17T10:28:40Z",
             "owner": "feliblo",
             "repo": "dbtective",
-            "stars": 43
-          }
+            "stars": 44
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -790,7 +840,8 @@
             "owner": "AltimateAI",
             "repo": "datapilot-cli",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -805,7 +856,8 @@
             "owner": "dpguthrie",
             "repo": "dbtc",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -820,7 +872,8 @@
             "owner": "sfu-db",
             "repo": "dbt-lineagex",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -835,7 +888,8 @@
             "owner": "autotraderuk",
             "repo": "oliver-twist",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -850,7 +904,8 @@
             "owner": "dbt-labs",
             "repo": "dbot",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -865,7 +920,8 @@
             "owner": "z3z1ma",
             "repo": "dbt-feature-flags",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -880,7 +936,8 @@
             "owner": "sungchun12",
             "repo": "fst",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -895,7 +952,8 @@
             "owner": "ramonvermeulen",
             "repo": "dbt-toolkit",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "gwenwindflower",
             "repo": "tbd",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -925,7 +984,8 @@
             "owner": "montara-io",
             "repo": "dbt-command-center",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -940,7 +1000,8 @@
             "owner": "brooklyn-data",
             "repo": "dbtenv",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1016,8 @@
             "owner": "metaplane",
             "repo": "cli",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1032,8 @@
             "owner": "coterahq",
             "repo": "dal",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1048,8 @@
             "owner": "aaronbannin",
             "repo": "looker-gen",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1064,8 @@
             "owner": "northgraindata",
             "repo": "dbt-doctor",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1080,8 @@
             "owner": "Oracen",
             "repo": "dbtvault-generator",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1096,8 @@
             "owner": "Stevedow99",
             "repo": "dbt-cloud-cancel-running-ci-job-action",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1041,11 +1108,12 @@
             "archived": false,
             "id": 1173509602,
             "language": "Rust",
-            "last_commit": "2026-08-27T02:27:47Z",
+            "last_commit": "2026-08-28T02:26:43Z",
             "owner": "eitsupi",
             "repo": "dlin",
-            "stars": 13
-          }
+            "stars": 14
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1128,8 @@
             "owner": "fredbrowne",
             "repo": "turboYAML",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1144,8 @@
             "owner": "gilcrest",
             "repo": "dbt-cue",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1160,8 @@
             "owner": "data-diving",
             "repo": "metadv",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1176,8 @@
             "owner": "liam-machine",
             "repo": "erd-studio",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1192,8 @@
             "owner": "aleenprd",
             "repo": "docbt",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1135,7 +1208,8 @@
             "owner": "NiclasOlofsson",
             "repo": "sqllens",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1224,8 @@
             "owner": "GJMcClintock",
             "repo": "dbt_tld",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1240,8 @@
             "owner": "Oisix",
             "repo": "dbt-column-lineage",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1256,8 @@
             "owner": "shyamsivakumar",
             "repo": "backfill",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         }
       ],
       "title": "Utilities"
@@ -1201,7 +1278,8 @@
             "owner": "datafold",
             "repo": "data-diff",
             "stars": 2991
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1294,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-codegen",
             "stars": 671
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1310,8 @@
             "owner": "gouline",
             "repo": "dbt-metabase",
             "stars": 610
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1326,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-project-evaluator",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1342,8 @@
             "owner": "EqualExperts",
             "repo": "dbt-unit-testing",
             "stars": 448
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1358,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-audit-helper",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1374,8 @@
             "owner": "brooklyn-data",
             "repo": "dbt_artifacts",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1306,7 +1390,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-external-tables",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1320,8 +1405,9 @@
             "last_commit": "2026-03-18T18:08:48Z",
             "owner": "get-select",
             "repo": "dbt-snowflake-monitoring",
-            "stars": 261
-          }
+            "stars": 260
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1422,8 @@
             "owner": "slidoapp",
             "repo": "dbt-coverage",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1438,8 @@
             "owner": "dbt-labs",
             "repo": "dbt_metrics",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1454,8 @@
             "owner": "ScalefreeCOM",
             "repo": "datavault4dbt",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1470,8 @@
             "owner": "lightdash",
             "repo": "dbt2looker",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1486,8 @@
             "owner": "omnata-labs",
             "repo": "dbt-ml-preprocessing",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1410,8 +1501,9 @@
             "last_commit": "2026-05-28T19:15:12Z",
             "owner": "Snowflake-Labs",
             "repo": "dbt_constraints",
-            "stars": 177
-          }
+            "stars": 176
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1518,8 @@
             "owner": "slidoapp",
             "repo": "dbt-superset-lineage",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1534,8 @@
             "owner": "microsoft",
             "repo": "dbt-fabric",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1550,8 @@
             "owner": "tnightengale",
             "repo": "dbt-meta-testing",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1566,8 @@
             "owner": "dbt-labs",
             "repo": "terraform-provider-dbtcloud",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1582,8 @@
             "owner": "godatadriven",
             "repo": "dbt-excel",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1598,8 @@
             "owner": "dwreeves",
             "repo": "dbt_linreg",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1614,8 @@
             "owner": "kristeligt-dagblad",
             "repo": "dbt_ml",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1630,8 @@
             "owner": "binste",
             "repo": "dbt-ibis",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1646,8 @@
             "owner": "AxelThevenot",
             "repo": "dbt-assertions",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1662,8 @@
             "owner": "Dashlane",
             "repo": "dbt-invoke",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1678,8 @@
             "owner": "entechlog",
             "repo": "dbt-snow-mask",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1591,7 +1694,8 @@
             "owner": "monzo",
             "repo": "ddbt",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1606,7 +1710,8 @@
             "owner": "microsoft",
             "repo": "dbt-fabricspark",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1621,7 +1726,8 @@
             "owner": "dbt-labs",
             "repo": "dbt-init",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1636,7 +1742,8 @@
             "owner": "get-select",
             "repo": "dbt-snowflake-query-tags",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1651,7 +1758,8 @@
             "owner": "pvcy",
             "repo": "dbt-privacy",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1666,7 +1774,8 @@
             "owner": "intellishore",
             "repo": "dbt-erdiagram-generator",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1790,8 @@
             "owner": "sdebruyn",
             "repo": "dbt-timescaledb",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1696,7 +1806,8 @@
             "owner": "arnoN7",
             "repo": "dbt-incremental-stream",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1822,8 @@
             "owner": "kgmcquate",
             "repo": "dbt-testgen",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1838,8 @@
             "owner": "fal-ai",
             "repo": "dbt_feature_store",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1854,8 @@
             "owner": "leogodin217",
             "repo": "dbt-fake",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1870,8 @@
             "owner": "fivetran",
             "repo": "dbt_fivetran_utils",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1886,8 @@
             "owner": "techindicium",
             "repo": "dbt-dag-monitoring",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1902,8 @@
             "owner": "godatadriven",
             "repo": "dbt-date",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1801,7 +1918,8 @@
             "owner": "infinitelambda",
             "repo": "dbt-data-diff",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1816,7 +1934,8 @@
             "owner": "infinitelambda",
             "repo": "dbt-tags",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1831,7 +1950,8 @@
             "owner": "marco-roy",
             "repo": "DDO",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1966,8 @@
             "owner": "irvingpop",
             "repo": "dbt_otel_export",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1982,8 @@
             "owner": "datnguye",
             "repo": "dbt-translate",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1876,7 +1998,8 @@
             "owner": "Matts52",
             "repo": "dbt-ml-inline-preprocessing",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1891,7 +2014,8 @@
             "owner": "dbt-labs",
             "repo": "snowflake-resource-monitoring",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1906,7 +2030,8 @@
             "owner": "anjane-tech",
             "repo": "usagedata",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1921,7 +2046,8 @@
             "owner": "data-diving",
             "repo": "dbt_diving",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1936,7 +2062,8 @@
             "owner": "danthelion",
             "repo": "dbt_cloud_run_cost",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1951,7 +2078,8 @@
             "owner": "infinitelambda",
             "repo": "dq-vault",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1966,7 +2094,8 @@
             "owner": "Nipsuli",
             "repo": "dbt-reconfigured",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1981,7 +2110,8 @@
             "owner": "UniRate-API",
             "repo": "dbt-unirate",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -1996,7 +2126,8 @@
             "owner": "sutrolabs",
             "repo": "dbt_census_utils",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         }
       ],
       "title": "Packages"
@@ -2017,7 +2148,8 @@
             "owner": "dbt-labs",
             "repo": "jaffle-shop-classic",
             "stars": 544
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2031,8 +2163,9 @@
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 483
-          }
+            "stars": 484
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2180,8 @@
             "owner": "InfuseAI",
             "repo": "awesome-public-dbt-projects",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2062,7 +2196,8 @@
             "owner": "astronomer",
             "repo": "airflow-dbt-demo",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2077,7 +2212,8 @@
             "owner": "dagster-io",
             "repo": "mdsfest-opensource-mds",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2092,7 +2228,8 @@
             "owner": "spbail",
             "repo": "dag-stack",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2107,7 +2244,8 @@
             "owner": "ftupas",
             "repo": "dbt-spotify-analytics",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2122,7 +2260,8 @@
             "owner": "dbt-labs",
             "repo": "mrr-playbook",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2137,7 +2276,8 @@
             "owner": "make-open-data",
             "repo": "make-open-data",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2152,7 +2292,8 @@
             "owner": "randypitcherii",
             "repo": "dbt_workspace",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2167,7 +2308,8 @@
             "owner": "davidgasquez",
             "repo": "dbt-devcontainer",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2182,7 +2324,8 @@
             "owner": "randypitcherii",
             "repo": "cloud_cost_monitoring",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2197,7 +2340,8 @@
             "owner": "dbt-labs",
             "repo": "attribution-playbook",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2212,7 +2356,8 @@
             "owner": "jonathanneo",
             "repo": "data-aware-orchestration",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2227,7 +2372,8 @@
             "owner": "matsonj",
             "repo": "mdsinabox",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2242,7 +2388,8 @@
             "owner": "slve",
             "repo": "dbt-github-workflow",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2257,7 +2404,8 @@
             "owner": "collinrlenon",
             "repo": "dbt-snowflake-template",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2272,7 +2420,8 @@
             "owner": "dbt-labs",
             "repo": "analytics-engineering-survey",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2287,7 +2436,8 @@
             "owner": "elliotgunn",
             "repo": "datafold-dbt-ci-advanced",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2302,7 +2452,8 @@
             "owner": "jpooksy",
             "repo": "paradime-dbt-nba-challenge",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2317,7 +2468,8 @@
             "owner": "preset-io",
             "repo": "dbt_github_archive_bigquery",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         },
         {
           "node_type": "item",
@@ -2332,14 +2484,15 @@
             "owner": "nszoni",
             "repo": "gee_production_gatekeepers",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
         }
       ],
       "title": "Sample Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:38.696Z",
+    "last_updated": "2026-08-28T04:26:05.546Z",
     "original_repository_info": {
       "archived": false,
       "id": 415350443,
@@ -2347,7 +2500,7 @@
       "last_commit": "2026-08-25T06:26:04Z",
       "owner": "Hiflylabs",
       "repo": "awesome-dbt",
-      "stars": 1721
+      "stars": 1722
     },
     "original_repository_sha": "4a27a5b24287d8caf83f0643c9787e0dc24ff78e",
     "enhanced_repository": "enhansome/enhansome-dbt",
