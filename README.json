@@ -12,7 +12,7 @@
             "archived": false,
             "id": 224762936,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T18:12:59Z",
+            "last_commit": "2026-08-28T23:40:48Z",
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 210
@@ -66,10 +66,10 @@
             "archived": false,
             "id": 349372179,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:56:00Z",
+            "last_commit": "2026-08-28T23:24:17Z",
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6096
+            "stars": 6102
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -82,10 +82,10 @@
             "archived": false,
             "id": 756594023,
             "language": "Go",
-            "last_commit": "2026-08-27T19:52:08Z",
+            "last_commit": "2026-08-28T16:43:43Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3885
+            "stars": 3909
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -98,10 +98,10 @@
             "archived": false,
             "id": 730384901,
             "language": "Python",
-            "last_commit": "2026-08-27T23:15:29Z",
+            "last_commit": "2026-08-29T00:23:59Z",
             "owner": "fal-ai",
             "repo": "fal",
-            "stars": 946
+            "stars": 947
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-27T17:43:21Z",
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 690
+            "stars": 693
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -130,10 +130,10 @@
             "archived": false,
             "id": 947516890,
             "language": "Python",
-            "last_commit": "2026-08-25T11:03:59Z",
+            "last_commit": "2026-08-28T21:07:05Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
-            "stars": 599
+            "stars": 601
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -251,7 +251,7 @@
             "last_commit": "2024-12-16T16:31:42Z",
             "owner": "calogica",
             "repo": "dbt-expectations",
-            "stars": 1233
+            "stars": 1232
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 788686533,
             "language": "Python",
-            "last_commit": "2026-08-27T22:18:46Z",
+            "last_commit": "2026-08-28T18:43:31Z",
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
             "stars": 141
@@ -280,10 +280,10 @@
             "archived": false,
             "id": 1117377856,
             "language": "Python",
-            "last_commit": "2026-08-26T09:23:48Z",
+            "last_commit": "2026-08-28T14:17:11Z",
             "owner": "rasinmuhammed",
             "repo": "misata",
-            "stars": 68
+            "stars": 67
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 155790228,
             "language": "Python",
-            "last_commit": "2026-08-26T00:37:46Z",
+            "last_commit": "2026-08-28T17:03:55Z",
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9862
+            "stars": 9863
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -436,10 +436,10 @@
             "archived": false,
             "id": 1168055015,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:23:44Z",
+            "last_commit": "2026-08-29T02:28:57Z",
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 801
+            "stars": 802
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -500,7 +500,7 @@
             "archived": false,
             "id": 387531661,
             "language": "Python",
-            "last_commit": "2026-08-24T03:18:33Z",
+            "last_commit": "2026-08-28T21:15:14Z",
             "owner": "tconbeer",
             "repo": "sqlfmt",
             "stars": 547
@@ -519,7 +519,7 @@
             "last_commit": "2022-10-12T19:59:12Z",
             "owner": "erika-e",
             "repo": "dbt-tips",
-            "stars": 404
+            "stars": 403
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -628,7 +628,7 @@
             "archived": false,
             "id": 819995040,
             "language": "Python",
-            "last_commit": "2026-08-25T13:34:20Z",
+            "last_commit": "2026-08-28T14:26:46Z",
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
             "stars": 128
@@ -679,7 +679,7 @@
             "last_commit": "2026-08-27T11:34:32Z",
             "owner": "yu-iskw",
             "repo": "dbt-artifacts-parser",
-            "stars": 115
+            "stars": 116
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -695,7 +695,7 @@
             "last_commit": "2023-07-26T16:21:14Z",
             "owner": "Infused-Insight",
             "repo": "fzf-dbt",
-            "stars": 74
+            "stars": 73
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -781,6 +781,22 @@
         },
         {
           "node_type": "item",
+          "title": "turbovault4dbt",
+          "description": "TurboVault4dbt is an open source tool that automatically generates dbt models according to datavault4dbt-templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 589901690,
+            "language": "Python",
+            "last_commit": "2026-07-31T11:49:46Z",
+            "owner": "ScalefreeCOM",
+            "repo": "turbovault4dbt",
+            "stars": 51
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
+        },
+        {
+          "node_type": "item",
           "title": "cookiecutter-dbt",
           "description": "Cookiecutter template for dbt projects.",
           "children": [],
@@ -797,22 +813,6 @@
         },
         {
           "node_type": "item",
-          "title": "turbovault4dbt",
-          "description": "TurboVault4dbt is an open source tool that automatically generates dbt models according to datavault4dbt-templates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 589901690,
-            "language": "Python",
-            "last_commit": "2026-07-31T11:49:46Z",
-            "owner": "ScalefreeCOM",
-            "repo": "turbovault4dbt",
-            "stars": 50
-          },
-          "first_seen": "2026-08-28T04:26:05.546Z"
-        },
-        {
-          "node_type": "item",
           "title": "dbtective",
           "description": "Rust-powered 'detective'/linter for dbt project/metadata best practices",
           "children": [],
@@ -823,7 +823,7 @@
             "last_commit": "2026-08-17T10:28:40Z",
             "owner": "feliblo",
             "repo": "dbtective",
-            "stars": 44
+            "stars": 45
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-07-28T10:41:17Z",
             "owner": "dbt-labs",
             "repo": "dbt-codegen",
-            "stars": 671
+            "stars": 672
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1437,7 +1437,7 @@
             "last_commit": "2025-12-17T17:26:40Z",
             "owner": "dbt-labs",
             "repo": "dbt_metrics",
-            "stars": 223
+            "stars": 222
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1450,10 +1450,10 @@
             "archived": false,
             "id": 510750851,
             "language": "PLSQL",
-            "last_commit": "2026-08-25T15:51:25Z",
+            "last_commit": "2026-08-28T15:39:23Z",
             "owner": "ScalefreeCOM",
             "repo": "datavault4dbt",
-            "stars": 202
+            "stars": 205
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1517,7 +1517,7 @@
             "last_commit": "2026-02-12T08:34:36Z",
             "owner": "slidoapp",
             "repo": "dbt-superset-lineage",
-            "stars": 156
+            "stars": 155
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2163,7 +2163,7 @@
             "last_commit": "2026-08-05T07:11:08Z",
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 484
+            "stars": 485
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:26:05.546Z",
+    "last_updated": "2026-08-29T02:53:25.871Z",
     "original_repository_info": {
       "archived": false,
       "id": 415350443,
@@ -2500,7 +2500,7 @@
       "last_commit": "2026-08-25T06:26:04Z",
       "owner": "Hiflylabs",
       "repo": "awesome-dbt",
-      "stars": 1722
+      "stars": 1721
     },
     "original_repository_sha": "4a27a5b24287d8caf83f0643c9787e0dc24ff78e",
     "enhanced_repository": "enhansome/enhansome-dbt",
