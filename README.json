@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code behind docs.getdbt.com",
+            "homepage": "https://docs.getdbt.com/",
             "id": 224762936,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:40:48Z",
+            "open_issues": 204,
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 479574546,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-30T20:47:16Z",
+            "open_issues": 5,
             "owner": "flexanalytics",
             "repo": "dbt-business-intelligence",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jinja cheatsheet for dbt development",
+            "homepage": null,
             "id": 485935031,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-07-25T06:28:11Z",
+            "open_issues": 1,
             "owner": "zsombor-flds",
             "repo": "dbt-jinja-cheatsheet",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         }
@@ -64,12 +79,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentic BI. Analytics at the speed of code ⚡️",
+            "homepage": "https://lightdash.com",
             "id": 349372179,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:24:17Z",
+            "open_issues": 1025,
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6102
+            "stars": 6102,
+            "topics": [
+              "business-intelligence",
+              "data-analytics",
+              "data-visualization",
+              "dbt"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -80,12 +105,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+            "homepage": "https://getbruin.com/docs/ingestr/",
             "id": 756594023,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:43:43Z",
+            "open_issues": 32,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3909
+            "stars": 3909,
+            "topics": [
+              "bigquery",
+              "copy-database",
+              "data-ingestion",
+              "data-integration",
+              "data-pipeline",
+              "duckdb",
+              "ingestion-pipeline",
+              "mssql",
+              "postgresql",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -96,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Fastest way to serve open source ML models to millions",
+            "homepage": "https://fal.ai/docs",
             "id": 730384901,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:23:59Z",
+            "open_issues": 67,
             "owner": "fal-ai",
             "repo": "fal",
-            "stars": 947
+            "stars": 947,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -112,12 +158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively.",
+            "homepage": null,
             "id": 1130059064,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:43:21Z",
+            "open_issues": 40,
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 693
+            "stars": 693,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -128,12 +179,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MCP (Model Context Protocol) server for interacting with dbt.",
+            "homepage": null,
             "id": 947516890,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:07:05Z",
+            "open_issues": 40,
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
-            "stars": 601
+            "stars": 601,
+            "topics": [
+              "data-analytics",
+              "data-engineering",
+              "dbt",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -144,12 +208,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of Prefect integrations for working with dbt with your Prefect flows.",
+            "homepage": "https://prefecthq.github.io/prefect-dbt/",
             "id": 496771859,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-19T16:48:23Z",
+            "open_issues": 3,
             "owner": "prefect-archive",
             "repo": "prefect-dbt",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "dbt",
+              "prefect",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -160,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DBT CLI MCP Server",
+            "homepage": null,
             "id": 949683238,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-26T16:12:03Z",
+            "open_issues": 4,
             "owner": "MammothGrowth",
             "repo": "dbt-cli-mcp",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -176,12 +254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo repository to lambda-fy your dbt runs",
+            "homepage": null,
             "id": 685843424,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-07T16:57:33Z",
+            "open_issues": 0,
             "owner": "trouze",
             "repo": "modal-dbt",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -192,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Stream Deck plugin for dbt Cloud",
+            "homepage": null,
             "id": 755196488,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-09T20:06:35Z",
+            "open_issues": 1,
             "owner": "nicholasyager",
             "repo": "dbt-streamdeck",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -208,12 +296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 517628513,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-10-26T17:31:29Z",
+            "open_issues": 2,
             "owner": "b-per",
             "repo": "raycast-dbt-cloud-metadata",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         }
@@ -230,12 +323,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.",
+            "homepage": "https://www.elementary-data.com/",
             "id": 401275197,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T13:09:27Z",
+            "open_issues": 24,
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2400
+            "stars": 2400,
+            "topics": [
+              "analytics-engineer",
+              "bigquery",
+              "data-analysis",
+              "data-governance",
+              "data-lineage",
+              "data-observability",
+              "data-pipeline",
+              "data-pipelines",
+              "data-reliability",
+              "data-warehouse",
+              "dataops",
+              "dbt",
+              "dbt-artifacts",
+              "dbt-packages",
+              "lineage",
+              "redshift",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -246,12 +362,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port(ish) of Great Expectations to dbt test macros",
+            "homepage": "https://calogica.github.io/dbt-expectations/",
             "id": 306479180,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-16T16:31:42Z",
+            "open_issues": 37,
             "owner": "calogica",
             "repo": "dbt-expectations",
-            "stars": 1232
+            "stars": 1232,
+            "topics": [
+              "dbt"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -262,12 +385,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility across and down your data estate. Save time with simple, fast data quality test generation and execution. Trust your data, tools, and systems end to end.",
+            "homepage": "https://datakitchen.io",
             "id": 788686533,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:43:31Z",
+            "open_issues": 6,
             "owner": "DataKitchen",
             "repo": "data-observability-installer",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "data",
+              "data-engineering",
+              "data-observability",
+              "data-profiling",
+              "data-quality",
+              "data-reliability",
+              "data-science",
+              "datachecker",
+              "datacleaner",
+              "datacleaning",
+              "dataops",
+              "dataquality",
+              "datatesting",
+              "datavalidation",
+              "mssql",
+              "pipeline-tests",
+              "postgresql",
+              "redshift",
+              "self-hosted",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -278,12 +427,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server. In simple terms, a powerful demo data generator for sales/demos/seed data.",
+            "homepage": "https://misata.studio",
             "id": 1117377856,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:17:11Z",
+            "open_issues": 0,
             "owner": "rasinmuhammed",
             "repo": "misata",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "data-engineering",
+              "data-generation",
+              "database-seeding",
+              "dbt",
+              "demo-data",
+              "developer-tools",
+              "fake-data",
+              "faker",
+              "generative-ai",
+              "llm",
+              "mcp-server",
+              "mock-data",
+              "numpy",
+              "pandas",
+              "pytest",
+              "synthetic-data",
+              "synthetic-dataset-generation",
+              "test-data",
+              "test-data-generator",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -294,12 +469,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make simple storing test results and visualisation of these in a BI dashboard",
+            "homepage": "https://infinitelambda.github.io/dq-tools/",
             "id": 588057098,
             "language": "PLpgSQL",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T19:10:22Z",
+            "open_issues": 1,
             "owner": "infinitelambda",
             "repo": "dq-tools",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "dataquality",
+              "dbt",
+              "package"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -310,12 +494,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A detective for your data. Zero-config data quality monitoring — works with dbt, Postgres, BigQuery, Snowflake. No YAML.",
+            "homepage": "https://github.com/rbmuller/scherlok",
             "id": 1198573394,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:12:50Z",
+            "open_issues": 11,
             "owner": "rbmuller",
             "repo": "scherlok",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "anomaly-detection",
+              "bigquery",
+              "claude",
+              "cli",
+              "data-engineering",
+              "data-observability",
+              "data-quality",
+              "dbt",
+              "duckdb",
+              "etl",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "monitoring",
+              "mysql",
+              "open-source",
+              "postgres",
+              "postgresql",
+              "python",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -326,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source contract validation system that prevents production breaks by ensuring data transformation outputs (DBT, Databricks, etc.) match REVERSE-ETL/API expectations (SalesForce, HubSpot, FastAPI, Django, etc.).",
+            "homepage": null,
             "id": 1024963215,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T10:55:43Z",
+            "open_issues": 0,
             "owner": "OGsiji",
             "repo": "data-contract-validator",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -342,12 +557,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open, audit-grade agentic data quality framework with portable industry packs",
+            "homepage": null,
             "id": 1236046729,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-27T20:34:08Z",
+            "open_issues": 10,
             "owner": "aegis-dq",
             "repo": "aegis-dq",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "agentic-ai",
+              "airflow",
+              "data-engineering",
+              "data-quality",
+              "dbt",
+              "duckdb",
+              "langgraph",
+              "llm",
+              "mlops",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         }
@@ -364,12 +595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 804582442,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-24T00:45:23Z",
+            "open_issues": 3,
             "owner": "bruno-szdl",
             "repo": "dbt-ci-cd",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -380,12 +616,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Showcase of advanced use cases relating to CI in dbt",
+            "homepage": "https://pgoslatara.github.io/dbt-beyond-the-basics/",
             "id": 645482246,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T07:17:43Z",
+            "open_issues": 2,
             "owner": "pgoslatara",
             "repo": "dbt-beyond-the-basics",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "continuous-integration",
+              "dbt",
+              "python",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -396,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action to download JSON artifacts from a dbt Cloud CI job triggered by a pull request.",
+            "homepage": null,
             "id": 856594980,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-12T08:39:42Z",
+            "open_issues": 3,
             "owner": "pgoslatara",
             "repo": "dbt-cloud-download-artifacts-action",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         }
@@ -418,12 +669,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+            "homepage": "https://www.sqlfluff.com",
             "id": 155790228,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:03:55Z",
+            "open_issues": 339,
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9863
+            "stars": 9863,
+            "topics": [
+              "hacktoberfest",
+              "pypi",
+              "sql",
+              "sql-linter"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -434,12 +695,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.",
+            "homepage": "https://altimate.sh",
             "id": 1168055015,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T02:28:57Z",
+            "open_issues": 262,
             "owner": "AltimateAI",
             "repo": "altimate-code",
-            "stars": 802
+            "stars": 802,
+            "topics": [
+              "agent",
+              "agentic-data-engineering",
+              "ai",
+              "analytics-engineering",
+              "bigquery",
+              "cli",
+              "data-engineering",
+              "databricks",
+              "dbt",
+              "finops",
+              "harness-engineering",
+              "lineage",
+              "llm",
+              "opencode",
+              "postgresql",
+              "snowflake",
+              "sql",
+              "workflow-automation-ai"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -450,12 +735,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fishing_pole_and_fish: List of `pre-commit` hooks to ensure the quality of your `dbt` projects.",
+            "homepage": null,
             "id": 325122821,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T21:43:11Z",
+            "open_issues": 65,
             "owner": "dbt-checkpoint",
             "repo": "dbt-checkpoint",
-            "stars": 764
+            "stars": 764,
+            "topics": [
+              "bigquery",
+              "business-intelligence",
+              "dbt",
+              "pre-commit",
+              "pre-commit-hook",
+              "quality-assurance",
+              "snowflake",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -466,12 +765,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides automated YAML management and a streamlit workbench. Designed to optimize dev workflows.",
+            "homepage": "https://z3z1ma.github.io/dbt-osmosis/",
             "id": 410144084,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T19:33:23Z",
+            "open_issues": 14,
             "owner": "z3z1ma",
             "repo": "dbt-osmosis",
-            "stars": 639
+            "stars": 639,
+            "topics": [
+              "cli",
+              "data",
+              "dbt",
+              "documentation",
+              "editor",
+              "modelling",
+              "sql",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -482,12 +795,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This extension makes vscode seamlessly work with dbt™: Auto-complete, preview, column lineage, AI docs generation, health checks, cost estimation etc",
+            "homepage": "https://www.altimate.ai",
             "id": 288509390,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:03:32Z",
+            "open_issues": 160,
             "owner": "AltimateAI",
             "repo": "vscode-dbt-power-user",
-            "stars": 584
+            "stars": 584,
+            "topics": [
+              "ai",
+              "dbt",
+              "dbt-cloud",
+              "dbt-core",
+              "genai",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -498,12 +824,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sqlfmt formats your dbt SQL files so you don't have to",
+            "homepage": "https://sqlfmt.com",
             "id": 387531661,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:15:14Z",
+            "open_issues": 38,
             "owner": "tconbeer",
             "repo": "sqlfmt",
-            "stars": 547
+            "stars": 547,
+            "topics": [
+              "dbt",
+              "formatter",
+              "python",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -514,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of dbt Tips and Tricks",
+            "homepage": null,
             "id": 370080434,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2022-10-12T19:59:12Z",
+            "open_issues": 2,
             "owner": "erika-e",
             "repo": "dbt-tips",
-            "stars": 403
+            "stars": 403,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -530,12 +871,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate the ERD as a code from dbt artifacts",
+            "homepage": "https://dbterd.datnguye.me/",
             "id": 506920410,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:13:58Z",
+            "open_issues": 2,
             "owner": "datnguye",
             "repo": "dbterd",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "cli",
+              "d2",
+              "dbml",
+              "dbt-cloud",
+              "dbt-core",
+              "drawdb",
+              "erd",
+              "graphviz",
+              "json",
+              "json-schema",
+              "mermaid",
+              "plantuml",
+              "python-api"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -546,12 +906,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linter for dbt metadata",
+            "homepage": "https://dbt-score.picnic.tech",
             "id": 756878861,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:53:58Z",
+            "open_issues": 14,
             "owner": "PicnicSupermarket",
             "repo": "dbt-score",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "dbt",
+              "dbt-core",
+              "linter",
+              "metadata",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -562,12 +933,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dbt-core plugin to weave together multi-project dbt-core deployments",
+            "homepage": "https://nicholasyager.github.io/dbt-loom/",
             "id": 666556220,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2026-06-25T17:25:03Z",
+            "open_issues": 25,
             "owner": "nicholasyager",
             "repo": "dbt-loom",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "dbt",
+              "dbt-core",
+              "plugin",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -578,12 +959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Python-based tool for extracting and analyzing data column lineage for dbt projects",
+            "homepage": null,
             "id": 872745792,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-28T03:10:56Z",
+            "open_issues": 4,
             "owner": "canva-public",
             "repo": "dbt-column-lineage-extractor",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -594,12 +980,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM based AI Agent to automate Data Analysis for dbt projects with remote MCP server",
+            "homepage": "https://ragstar.vercel.app",
             "id": 755860108,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-01T17:17:34Z",
+            "open_issues": 4,
             "owner": "pragunbhutani",
             "repo": "dbt-llm-agent",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "ai",
+              "ai-data-analysis",
+              "data-analysis",
+              "data-analyst",
+              "dbt",
+              "llm",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -610,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neovim plugin for dbt",
+            "homepage": null,
             "id": 589358525,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-06-19T16:27:59Z",
+            "open_issues": 10,
             "owner": "PedramNavid",
             "repo": "dbtpal",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -626,12 +1032,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configure and enforce conventions for your dbt project.",
+            "homepage": "https://godatadriven.github.io/dbt-bouncer",
             "id": 819995040,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:26:46Z",
+            "open_issues": 8,
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "ci",
+              "dbt",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -642,12 +1057,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A dbt-core python package that automates the management and creation of dbt groups, contracts, access, and versions.",
+            "homepage": "https://dbt-labs.github.io/dbt-meshify/",
             "id": 623167230,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-21T19:47:44Z",
+            "open_issues": 23,
             "owner": "dbt-labs",
             "repo": "dbt-meshify",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "data",
+              "dbt",
+              "dbt-cloud",
+              "dbt-core"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -658,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern web-based user interface for dbt-core projects",
+            "homepage": null,
             "id": 1136890957,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-01T14:28:04Z",
+            "open_issues": 2,
             "owner": "data-diving",
             "repo": "dbt-ui",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -674,12 +1104,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dbt artifacts parser in python",
+            "homepage": "https://pypi.org/project/dbt-artifacts-parser/",
             "id": 464753497,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:34:32Z",
+            "open_issues": 7,
             "owner": "yu-iskw",
             "repo": "dbt-artifacts-parser",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "dbt",
+              "dbt-artifacts",
+              "parser",
+              "pypi-package",
+              "python",
+              "python-package"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -690,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An integration for dbt and fzf that allows interactive selection and search of dbt models.",
+            "homepage": null,
             "id": 453680267,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-07-26T16:21:14Z",
+            "open_issues": 2,
             "owner": "Infused-Insight",
             "repo": "fzf-dbt",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -706,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, open-source UI for dbt that provides model browsing, lineage visualization, run orchestration, documentation previews, and environment management—without vendor lock-in. Designed for local and on-prem deployments.",
+            "homepage": null,
             "id": 1114250791,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-30T18:17:25Z",
+            "open_issues": 0,
             "owner": "rezer-bleede",
             "repo": "dbt-Workbench",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -722,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically creates dbt exposures from your BI tools. It currently supports Tableau (connecting to Snowflake).",
+            "homepage": null,
             "id": 379691756,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-25T15:15:42Z",
+            "open_issues": 3,
             "owner": "voi-oss",
             "repo": "dbt-exposures-crawler",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -738,12 +1195,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytest plugin for dbt core",
+            "homepage": "https://pytest-dbt-core.readthedocs.io/en/latest/",
             "id": 452239599,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-06T02:32:57Z",
+            "open_issues": 8,
             "owner": "godatadriven",
             "repo": "pytest-dbt-core",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "dbt",
+              "dbt-macros",
+              "dbt-tests",
+              "pytest",
+              "pytest-extension",
+              "test",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -754,12 +1224,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "makes your sql less bad",
+            "homepage": null,
             "id": 102030883,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-26T11:54:14Z",
+            "open_issues": 0,
             "owner": "dbt-labs",
             "repo": "dbt-sql-formatter",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -770,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the basics to get a nice containerized dbt development environment",
+            "homepage": null,
             "id": 351936264,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-02T12:55:07Z",
+            "open_issues": 1,
             "owner": "gnilrets",
             "repo": "dbt-container-skeleton",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -786,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalefree's tool to automatically generate Data Vault models for the dbt package \"datavault4dbt\" based on metadata.",
+            "homepage": null,
             "id": 589901690,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T11:49:46Z",
+            "open_issues": 16,
             "owner": "ScalefreeCOM",
             "repo": "turbovault4dbt",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -802,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powered by Cookiecutter, Cookiecutter dbt coves is a framework for jumpstarting production-ready dbt projects quickly.",
+            "homepage": null,
             "id": 379409760,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-08T15:54:16Z",
+            "open_issues": 3,
             "owner": "datacoves",
             "repo": "cookiecutter-dbt",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -818,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://feliblo.github.io/dbtective/",
             "id": 1097669230,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-17T10:28:40Z",
+            "open_issues": 2,
             "owner": "feliblo",
             "repo": "dbtective",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -834,12 +1329,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datailot-cli is the command line interface for accessing the AI teammate for engineers to ensure best practices in their SQL and dbt projects.",
+            "homepage": "https://datapilot.readthedocs.io/en/latest/",
             "id": 748009037,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T05:39:20Z",
+            "open_issues": 6,
             "owner": "AltimateAI",
             "repo": "datapilot-cli",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "dataquality",
+              "dbt",
+              "dbt-core"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -850,12 +1354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 457570824,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-08T15:46:24Z",
+            "open_issues": 4,
             "owner": "dpguthrie",
             "repo": "dbtc",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -866,12 +1375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 640378092,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-25T01:44:51Z",
+            "open_issues": 2,
             "owner": "sfu-db",
             "repo": "dbt-lineagex",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -882,12 +1396,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt DAG Auditor",
+            "homepage": "https://olivertwi.st",
             "id": 321656526,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-02T14:30:08Z",
+            "open_issues": 16,
             "owner": "autotraderuk",
             "repo": "oliver-twist",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "dag",
+              "dag-auditing",
+              "dbt"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -898,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An LLM-powered chatbot with the added context of the dbt knowledge base.",
+            "homepage": null,
             "id": 623954112,
             "language": "MDX",
+            "license": null,
             "last_commit": "2024-12-04T17:12:32Z",
+            "open_issues": 0,
             "owner": "dbt-labs",
             "repo": "dbot",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -914,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature Flags in dbt models",
+            "homepage": null,
             "id": 519863844,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-05T07:45:37Z",
+            "open_issues": 0,
             "owner": "z3z1ma",
             "repo": "dbt-feature-flags",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -930,12 +1463,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fst: flow state tool | smooth where you want it, friction where you need it when data engineering",
+            "homepage": "https://www.loom.com/share/ecfbdfb981e4443d94d2c95f16176118",
             "id": 613133208,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-13T16:27:13Z",
+            "open_issues": 15,
             "owner": "sungchun12",
             "repo": "fst",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "dbt",
+              "fast",
+              "flowstate",
+              "hot-reload",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -946,12 +1490,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The dbt-toolkit is an early-stage plugin designed to enhance your experience working with dbt-core projects in JetBrains IDEs.",
+            "homepage": null,
             "id": 791162442,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-04T19:07:24Z",
+            "open_issues": 19,
             "owner": "ramonvermeulen",
             "repo": "dbt-toolkit",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "data-transformation",
+              "dbt",
+              "dbt-core",
+              "intellij-plugin",
+              "jetbrains-plugin",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -962,12 +1518,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🏁 A sweet and speedy code generator for dbt  🏎️✨",
+            "homepage": null,
             "id": 769580581,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-23T03:50:18Z",
+            "open_issues": 1,
             "owner": "gwenwindflower",
             "repo": "tbd",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -978,12 +1539,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Never sift through endless dbt™ logs again. dbt Command Center is a free, open-source, local web application that provides a user-friendly interface to monitor and manage dbt runs.",
+            "homepage": "https://montara.io",
             "id": 799788733,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-20T20:12:37Z",
+            "open_issues": 9,
             "owner": "montara-io",
             "repo": "dbt-command-center",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "analytics-engineering",
+              "bigquery",
+              "data-analysis",
+              "data-catalog",
+              "data-engineering",
+              "data-lineage",
+              "data-observability",
+              "data-pipeline",
+              "data-pipelines",
+              "data-validation",
+              "data-warehouse",
+              "dataops",
+              "dbt",
+              "dbt-packages",
+              "elt",
+              "etl",
+              "orchestration",
+              "python",
+              "redshift"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -994,12 +1580,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbtenv is a version manager for dbt, automatically installing and switching to the needed adapter and version of dbt.",
+            "homepage": null,
             "id": 346486468,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-27T08:48:02Z",
+            "open_issues": 4,
             "owner": "brooklyn-data",
             "repo": "dbtenv",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "dbt"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1010,12 +1603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 890593589,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-14T15:17:08Z",
+            "open_issues": 1,
             "owner": "metaplane",
             "repo": "cli",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1026,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Access Layer",
+            "homepage": null,
             "id": 468815924,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2022-04-11T14:41:02Z",
+            "open_issues": 0,
             "owner": "coterahq",
             "repo": "dal",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1042,12 +1645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate lookml from dbt",
+            "homepage": null,
             "id": 485912504,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-19T02:45:24Z",
+            "open_issues": 0,
             "owner": "aaronbannin",
             "repo": "looker-gen",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1058,12 +1666,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static analysis and health checks for dbt projects. Find missing docs, missing tests, schema drift risks, stale models, DAG maintainability issues, and CI quality gate failures.",
+            "homepage": "https://dbt-doctor.northgraindata.com",
             "id": 1243287386,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-14T20:40:02Z",
+            "open_issues": 0,
             "owner": "northgraindata",
             "repo": "dbt-doctor",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "analytics-engineering",
+              "ci",
+              "cli",
+              "data-engineering",
+              "data-governance",
+              "data-quality",
+              "dbt",
+              "dbt-core",
+              "linter",
+              "pre-commit",
+              "python",
+              "sql",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1074,12 +1701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate DBT Vault files from yml metadata!",
+            "homepage": null,
             "id": 608413551,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T14:18:07Z",
+            "open_issues": 2,
             "owner": "Oracen",
             "repo": "dbtvault-generator",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1090,12 +1722,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This actions checks if a dbt cloud CI job is running after a new or updated PR is made. If there is a job running it will cancel it in order to kick of the new CI job",
+            "homepage": null,
             "id": 542340662,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-23T16:13:50Z",
+            "open_issues": 1,
             "owner": "Stevedow99",
             "repo": "dbt-cloud-cancel-running-ci-job-action",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "dbt",
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1106,12 +1746,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give coding agents instant dbt lineage — no dbt compile, no Python, no grep.",
+            "homepage": null,
             "id": 1173509602,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:26:43Z",
+            "open_issues": 2,
             "owner": "eitsupi",
             "repo": "dlin",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "cli",
+              "dbt",
+              "dbt-core",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1122,12 +1772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered CLI tool for converting DBT SQL files to YAML using OpenAI.",
+            "homepage": null,
             "id": 670888131,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-25T14:08:56Z",
+            "open_issues": 1,
             "owner": "fredbrowne",
             "repo": "turboYAML",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1138,12 +1793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate dbt yml files using the CUE language",
+            "homepage": null,
             "id": 563983352,
             "language": "CUE",
+            "license": null,
             "last_commit": "2024-02-14T02:52:28Z",
+            "open_issues": 0,
             "owner": "gilcrest",
             "repo": "dbt-cue",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1154,12 +1814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metadata-Driven Model Generator",
+            "homepage": null,
             "id": 1136866916,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-24T19:43:19Z",
+            "open_issues": 2,
             "owner": "data-diving",
             "repo": "metadv",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1170,12 +1835,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual ERD designer for dbt — design your data warehouse on a canvas, in your repo, where your AI assistant can read it. Free and open source.",
+            "homepage": null,
             "id": 1143599301,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-10T05:30:14Z",
+            "open_issues": 0,
             "owner": "liam-machine",
             "repo": "erd-studio",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ai-tools",
+              "analytics-engineering",
+              "claude",
+              "data-modeling",
+              "data-warehouse",
+              "dbt",
+              "dbt-core",
+              "dimensional-modeling",
+              "erd",
+              "kimball",
+              "mcp",
+              "medallion-architecture",
+              "semantic-layer",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1186,12 +1871,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Documentation Build Tool - Generate YAML documentation for dbt models with optional AI assistance. Built with Streamlit for an intuitive and familiar web interface.",
+            "homepage": null,
             "id": 1080704540,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-13T09:06:58Z",
+            "open_issues": 6,
             "owner": "aleenprd",
             "repo": "docbt",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ai",
+              "analytics-engineering",
+              "bigquery",
+              "data",
+              "data-modeling",
+              "data-science",
+              "dbt",
+              "docker",
+              "llm",
+              "lmstudio",
+              "ollama",
+              "openai",
+              "snowflake",
+              "sql",
+              "streamlit"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1202,12 +1908,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript SQL parser and static analyzer: parse, resolve names, infer types, and trace column lineage. Error-tolerant for editors and LSP tooling. Dialects: Databricks, T-SQL, Snowflake, BigQuery, Redshift, PostgreSQL, DuckDB, Trino, SQLite, MySQL.",
+            "homepage": null,
             "id": 1267655067,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T15:43:17Z",
+            "open_issues": 10,
             "owner": "NiclasOlofsson",
             "repo": "sqllens",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "antlr4",
+              "ast",
+              "bigquery",
+              "column-lineage",
+              "databricks",
+              "dbt",
+              "duckdb",
+              "language-server-protocol",
+              "mysql",
+              "postgres",
+              "redshift",
+              "snowflake",
+              "sql",
+              "sql-parser",
+              "sqlite",
+              "static-analysis",
+              "trino",
+              "tsql",
+              "type-inference",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1218,12 +1950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An updating dbt library that will maintain a list of current ICANN recognized top level domains",
+            "homepage": null,
             "id": 623227678,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-15T03:01:28Z",
+            "open_issues": 0,
             "owner": "GJMcClintock",
             "repo": "dbt_tld",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1234,12 +1971,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Column-level lineage for dbt models — parses manifest.json/catalog.json with sqlglot and renders an interactive graph in the browser (FastAPI + Next.js).",
+            "homepage": "https://pypi.org/project/dbt-column-lineage/",
             "id": 789832542,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:36:48Z",
+            "open_issues": 1,
             "owner": "Oisix",
             "repo": "dbt-column-lineage",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "column-lineage",
+              "data-engineering",
+              "data-lineage",
+              "dbt",
+              "fastapi",
+              "lineage",
+              "nextjs",
+              "snowflake",
+              "sqlglot",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1250,12 +2003,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get paid while your dbt runs. One sponsored terminal line during dbt, cargo, docker — and Claude Code/Codex sessions. 50% revenue share, open-source CLI that never reads your code.",
+            "homepage": null,
             "id": 1267056220,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-14T17:21:12Z",
+            "open_issues": 0,
             "owner": "shyamsivakumar",
             "repo": "backfill",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ads",
+              "claude-code",
+              "cli",
+              "codex",
+              "dbt",
+              "developer-tools",
+              "revenue-share",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         }
@@ -1272,12 +2039,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Compare tables within or across databases",
+            "homepage": "https://docs.datafold.com",
             "id": 467151498,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-17T13:45:03Z",
+            "open_issues": 0,
             "owner": "datafold",
             "repo": "data-diff",
-            "stars": 2991
+            "stars": 2991,
+            "topics": [
+              "data",
+              "data-diffing",
+              "data-engineering",
+              "data-quality",
+              "data-quality-monitoring",
+              "data-science",
+              "database",
+              "databricks-sql",
+              "dataengineering",
+              "dataquality",
+              "dbt",
+              "mysql",
+              "oracle-database",
+              "postgres",
+              "postgresql",
+              "python",
+              "rdbms",
+              "snowflake",
+              "sql",
+              "trino"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1288,12 +2081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Macros that generate dbt code",
+            "homepage": "https://hub.getdbt.com/dbt-labs/codegen/latest/",
             "id": 191233384,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T10:41:17Z",
+            "open_issues": 24,
             "owner": "dbt-labs",
             "repo": "dbt-codegen",
-            "stars": 672
+            "stars": 672,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1304,12 +2102,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt + Metabase integration",
+            "homepage": "https://pypi.org/project/dbt-metabase/",
             "id": 227567532,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T06:47:51Z",
+            "open_issues": 1,
             "owner": "gouline",
             "repo": "dbt-metabase",
-            "stars": 610
+            "stars": 610,
+            "topics": [
+              "analytics",
+              "business-intelligence",
+              "data",
+              "data-modelling",
+              "dbt",
+              "elt",
+              "metabase",
+              "pypa",
+              "python",
+              "vizualisation"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1320,12 +2134,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package contains macros and models to find DAG issues automatically",
+            "homepage": "https://dbt-labs.github.io/dbt-project-evaluator/latest/",
             "id": 445580280,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:34:39Z",
+            "open_issues": 23,
             "owner": "dbt-labs",
             "repo": "dbt-project-evaluator",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "dbt-packages"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1336,12 +2157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This dbt package contains macros to support unit testing that can be (re)used across dbt projects.",
+            "homepage": null,
             "id": 419328607,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-13T16:11:44Z",
+            "open_issues": 25,
             "owner": "EqualExperts",
             "repo": "dbt-unit-testing",
-            "stars": 448
+            "stars": 448,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1352,12 +2178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful macros when performing data audits",
+            "homepage": "https://hub.getdbt.com/dbt-labs/audit_helper/latest/",
             "id": 191221181,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-19T12:18:10Z",
+            "open_issues": 11,
             "owner": "dbt-labs",
             "repo": "dbt-audit-helper",
-            "stars": 422
+            "stars": 422,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1368,12 +2199,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dbt package for modelling dbt metadata. https://brooklyn-data.github.io/dbt_artifacts",
+            "homepage": null,
             "id": 335676992,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T11:36:59Z",
+            "open_issues": 84,
             "owner": "brooklyn-data",
             "repo": "dbt_artifacts",
-            "stars": 404
+            "stars": 404,
+            "topics": [
+              "dbt"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1384,12 +2222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt macros to stage external sources",
+            "homepage": "https://hub.getdbt.com/dbt-labs/dbt_external_tables/latest/",
             "id": 215143006,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T13:16:10Z",
+            "open_issues": 63,
             "owner": "dbt-labs",
             "repo": "dbt-external-tables",
-            "stars": 381
+            "stars": 381,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1400,12 +2243,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dbt package from SELECT to help you monitor Snowflake performance and costs",
+            "homepage": "https://select.dev/docs/dbt-snowflake-monitoring",
             "id": 551573284,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-18T18:08:48Z",
+            "open_issues": 33,
             "owner": "get-select",
             "repo": "dbt-snowflake-monitoring",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "dbt",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1416,12 +2267,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-stop-shop for docs and test coverage of dbt projects.",
+            "homepage": null,
             "id": 421022206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-29T08:49:19Z",
+            "open_issues": 17,
             "owner": "slidoapp",
             "repo": "dbt-coverage",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "cli",
+              "coverage",
+              "dbt",
+              "docs",
+              "documentation",
+              "python",
+              "testing",
+              "tests",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1432,12 +2298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Macros for calculating metrics",
+            "homepage": null,
             "id": 430920132,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-17T17:26:40Z",
+            "open_issues": 0,
             "owner": "dbt-labs",
             "repo": "dbt_metrics",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1448,12 +2319,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalefree's dbt package for a Data Vault 2 implementation congruent to the original Data Vault 2 definition by Dan Linstedt including the Staging Area, DV2 main entities, PITs and Snapshot Tables.",
+            "homepage": "https://www.datavault4dbt.com",
             "id": 510750851,
             "language": "PLSQL",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:39:23Z",
+            "open_issues": 13,
             "owner": "ScalefreeCOM",
             "repo": "datavault4dbt",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "azure-synapse",
+              "bigquery",
+              "datavault",
+              "dbt",
+              "dbt-packages",
+              "exasol",
+              "google-bigquery",
+              "hubs",
+              "links",
+              "pits",
+              "postgresql",
+              "redshift",
+              "satellites",
+              "scalefree",
+              "snapshots",
+              "snowflake",
+              "sourcemarts",
+              "stagingarea"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1464,12 +2359,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate lookml for views from dbt models",
+            "homepage": "https://lightdash.com",
             "id": 357486004,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-20T13:04:11Z",
+            "open_issues": 34,
             "owner": "lightdash",
             "repo": "dbt2looker",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "dbt",
+              "looker"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1480,12 +2383,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SQL port of python's scikit-learn preprocessing module, provided as cross-database dbt macros.",
+            "homepage": "https://omnata-labs.github.io/dbt-ml-preprocessing/",
             "id": 327861595,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-03T21:38:18Z",
+            "open_issues": 7,
             "owner": "omnata-labs",
             "repo": "dbt-ml-preprocessing",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "bigquery",
+              "dbt",
+              "redshift",
+              "scikit-learn",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1496,12 +2410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package generates database constraints based on the tests in a dbt project",
+            "homepage": null,
             "id": 470994008,
             "language": "SQL",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-28T19:15:12Z",
+            "open_issues": 12,
             "owner": "Snowflake-Labs",
             "repo": "dbt_constraints",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1512,12 +2431,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make dbt docs and Apache Superset talk to one another",
+            "homepage": null,
             "id": 434528379,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-12T08:34:36Z",
+            "open_issues": 3,
             "owner": "slidoapp",
             "repo": "dbt-superset-lineage",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "cli",
+              "data-lineage",
+              "dbt",
+              "lineage",
+              "superset",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1528,12 +2459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 605428848,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:46:30Z",
+            "open_issues": 33,
             "owner": "microsoft",
             "repo": "dbt-fabric",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1544,12 +2480,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dbt SQL package for ensuring documentation and test coverage, with granular control.",
+            "homepage": null,
             "id": 315352544,
             "language": "SQL",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-16T16:10:13Z",
+            "open_issues": 10,
             "owner": "tnightengale",
             "repo": "dbt-meta-testing",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "dbt",
+              "dbt-artifacts",
+              "dbt-fundamentals",
+              "dbt-macros",
+              "dbt-packages",
+              "dbt-tests",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1560,12 +2509,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt Cloud Terraform Provider",
+            "homepage": "https://registry.terraform.io/providers/dbt-labs/dbtcloud",
             "id": 411451561,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T12:17:15Z",
+            "open_issues": 19,
             "owner": "dbt-labs",
             "repo": "terraform-provider-dbtcloud",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "dbt",
+              "dbt-cloud",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1576,12 +2535,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEPRECATED] A dbt adapter for Excel.",
+            "homepage": "https://dbt-excel.com/",
             "id": 570538563,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-12T19:50:54Z",
+            "open_issues": 10,
             "owner": "godatadriven",
             "repo": "dbt-excel",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "dbt",
+              "deprecated",
+              "excel",
+              "obselete"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1592,12 +2561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linear regression in SQL using dbt",
+            "homepage": null,
             "id": 612783707,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-28T00:02:49Z",
+            "open_issues": 5,
             "owner": "dwreeves",
             "repo": "dbt_linreg",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1608,12 +2582,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package for dbt that allows users to train, audit and use BigQuery ML models.",
+            "homepage": null,
             "id": 269665892,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-07T20:46:39Z",
+            "open_issues": 13,
             "owner": "kristeligt-dagblad",
             "repo": "dbt_ml",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "bigquery-ml",
+              "dbt"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1624,12 +2606,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write your dbt models using Ibis",
+            "homepage": "https://binste.github.io/dbt-ibis/",
             "id": 687511255,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-18T07:31:42Z",
+            "open_issues": 7,
             "owner": "binste",
             "repo": "dbt-ibis",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "data",
+              "dbt",
+              "ibis"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1640,12 +2631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package to assert rows in-line with dbt macros.",
+            "homepage": null,
             "id": 743632470,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-11-25T11:05:27Z",
+            "open_issues": 2,
             "owner": "AxelThevenot",
             "repo": "dbt-assertions",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1656,12 +2652,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI for creating, updating, and deleting dbt property files",
+            "homepage": null,
             "id": 342590039,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-31T23:09:46Z",
+            "open_issues": 12,
             "owner": "Dashlane",
             "repo": "dbt-invoke",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "cli",
+              "dbt",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1672,12 +2677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains source code for dbt package dbt_snow_mask.",
+            "homepage": "https://hub.getdbt.com/entechlog/dbt_snow_mask/latest/",
             "id": 374057386,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-03-15T06:31:52Z",
+            "open_issues": 30,
             "owner": "entechlog",
             "repo": "dbt-snow-mask",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1688,12 +2698,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dom's Data Build Tool",
+            "homepage": null,
             "id": 294827932,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-05-04T14:07:28Z",
+            "open_issues": 0,
             "owner": "monzo",
             "repo": "ddbt",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1704,12 +2719,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dbt adapter for Fabric Lakehouse backed by Apache Spark.",
+            "homepage": "https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-overview",
             "id": 764896453,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T03:34:02Z",
+            "open_issues": 6,
             "owner": "microsoft",
             "repo": "dbt-fabricspark",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "dbt",
+              "fabric",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1720,12 +2744,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A dbt-init script for consulting projects",
+            "homepage": null,
             "id": 171780255,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-28T11:10:03Z",
+            "open_issues": 4,
             "owner": "dbt-labs",
             "repo": "dbt-init",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1736,12 +2765,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "From the SELECT team, a dbt package to automatically tag dbt-issued queries with informative metadata. ",
+            "homepage": "https://select.dev",
             "id": 599050565,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-06T18:22:12Z",
+            "open_issues": 3,
             "owner": "get-select",
             "repo": "dbt-snowflake-query-tags",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1752,12 +2786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package of macros for dbt to make it easier to protect your customers' data",
+            "homepage": null,
             "id": 472855784,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-13T18:14:10Z",
+            "open_issues": 3,
             "owner": "pvcy",
             "repo": "dbt-privacy",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1768,12 +2807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 429502684,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-07T08:35:04Z",
+            "open_issues": 3,
             "owner": "intellishore",
             "repo": "dbt-erdiagram-generator",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1784,12 +2828,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The TimescaleDB adapter plugin for dbt",
+            "homepage": "https://dbt-timescaledb.debruyn.dev",
             "id": 715808928,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-19T09:12:32Z",
+            "open_issues": 6,
             "owner": "sdebruyn",
             "repo": "dbt-timescaledb",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "dbt",
+              "timescaledb"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1800,12 +2852,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DBT Package reproducing dbt incremental materialization leveraging on Snowflake streams",
+            "homepage": null,
             "id": 634683318,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-05T22:57:02Z",
+            "open_issues": 3,
             "owner": "arnoN7",
             "repo": "dbt-incremental-stream",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "dbt",
+              "dbt-packages",
+              "snowflake",
+              "stream",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1816,12 +2879,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate DBT tests based on sample data",
+            "homepage": "https://kgmcquate.github.io/dbt-testgen/",
             "id": 729854668,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-02-28T04:50:18Z",
+            "open_issues": 6,
             "owner": "kgmcquate",
             "repo": "dbt-testgen",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "dbt",
+              "dbt-packages",
+              "sql",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1832,12 +2905,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your feature store with macros right within your dbt repository",
+            "homepage": "https://hub.getdbt.com/fal-ai/feature_store",
             "id": 458211476,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-16T14:08:38Z",
+            "open_issues": 1,
             "owner": "fal-ai",
             "repo": "dbt_feature_store",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "dbt",
+              "dbt-packages",
+              "feature-store"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1848,12 +2930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daily updated fake data for DBT learning and projects",
+            "homepage": null,
             "id": 668681017,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-01-07T17:01:50Z",
+            "open_issues": 0,
             "owner": "leogodin217",
             "repo": "dbt-fake",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1864,12 +2951,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helper utils for our packages",
+            "homepage": null,
             "id": 295830748,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-12T21:31:11Z",
+            "open_issues": 21,
             "owner": "fivetran",
             "repo": "dbt_fivetran_utils",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "dbt",
+              "fivetran",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1880,12 +2976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt package for monitoring airflow DAGs and tasks",
+            "homepage": null,
             "id": 610478577,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-14T04:16:02Z",
+            "open_issues": 12,
             "owner": "techindicium",
             "repo": "dbt-dag-monitoring",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1896,12 +2997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Date-related macros for dbt",
+            "homepage": null,
             "id": 926683253,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:42:59Z",
+            "open_issues": 3,
             "owner": "godatadriven",
             "repo": "dbt-date",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1912,12 +3018,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data-diff solution for dbt-ers with Snowflake ❄️ 🚀",
+            "homepage": "http://data-diff.iflambda.com/latest",
             "id": 742244235,
             "language": "PLpgSQL",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T05:06:23Z",
+            "open_issues": 1,
             "owner": "infinitelambda",
             "repo": "dbt-data-diff",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "data-diff",
+              "dbt",
+              "package",
+              "snowflake",
+              "stored-procedure"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1928,12 +3045,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tag-based masking policies management in Snowflake ❄️ 🏷️",
+            "homepage": "https://dbt-tags.iflambda.com/latest",
             "id": 770207061,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T05:02:27Z",
+            "open_issues": 0,
             "owner": "infinitelambda",
             "repo": "dbt-tags",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "dbt",
+              "masking-policy",
+              "snowflake",
+              "tags"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1944,12 +3071,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DBT package to perform DataOps & administrative CI/CD on your data warehouse.",
+            "homepage": null,
             "id": 365628516,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-05-11T05:41:42Z",
+            "open_issues": 1,
             "owner": "marco-roy",
             "repo": "DDO",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "data",
+              "dataops",
+              "datawarehouse",
+              "datawarehouseautomation",
+              "dbt",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1960,12 +3099,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Takes dbt runs and turns them into OpenTelemetry traces",
+            "homepage": null,
             "id": 737884204,
             "language": "PLpgSQL",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-20T22:35:38Z",
+            "open_issues": 0,
             "owner": "irvingpop",
             "repo": "dbt_otel_export",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1976,12 +3120,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Let's translate Numbers to Words ✨",
+            "homepage": "https://dbt-translate.datnguyen.de/",
             "id": 617291193,
             "language": "TSQL",
+            "license": "MIT",
             "last_commit": "2023-10-21T03:24:46Z",
+            "open_issues": 0,
             "owner": "datnguye",
             "repo": "dbt-translate",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "dbt",
+              "money2word",
+              "num2word",
+              "package",
+              "snowflake",
+              "sql",
+              "sqlserver",
+              "udf"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -1992,12 +3150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This dbt package produces a number of different machine learning preprocessing techniques inline in sql",
+            "homepage": "http://matthewsenick.com/dbt-ml-inline-preprocessing/",
             "id": 840862315,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-07T18:09:37Z",
+            "open_issues": 2,
             "owner": "Matts52",
             "repo": "dbt-ml-inline-preprocessing",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2008,12 +3171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 533838229,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-03T23:55:02Z",
+            "open_issues": 1,
             "owner": "dbt-labs",
             "repo": "snowflake-resource-monitoring",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2024,12 +3192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Usage Data Analytics",
+            "homepage": "https://anjane-tech.github.io/usagedata/",
             "id": 577265116,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-03-07T12:47:58Z",
+            "open_issues": 2,
             "owner": "anjane-tech",
             "repo": "usagedata",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2040,12 +3213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free to use dbt package with helper macros",
+            "homepage": null,
             "id": 718365316,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-01-15T20:03:33Z",
+            "open_issues": 3,
             "owner": "data-diving",
             "repo": "dbt_diving",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2056,12 +3234,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💸 package to calculate dbt Cloud usage-based cost 💸",
+            "homepage": null,
             "id": 677673353,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-13T09:07:19Z",
+            "open_issues": 0,
             "owner": "danthelion",
             "repo": "dbt_cloud_run_cost",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "dbt",
+              "dbt-cloud",
+              "dbt-packages",
+              "dbtcloud"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2072,12 +3260,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Quality Observation of Data Vault layer",
+            "homepage": "https://hub.getdbt.com/infinitelambda/dq_vault",
             "id": 588057994,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-02-17T04:34:21Z",
+            "open_issues": 0,
             "owner": "infinitelambda",
             "repo": "dq-vault",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "data-vault",
+              "dq",
+              "package"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2088,12 +3285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt package containing reconfigured macros",
+            "homepage": null,
             "id": 660587779,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-03-07T12:47:34Z",
+            "open_issues": 0,
             "owner": "Nipsuli",
             "repo": "dbt-reconfigured",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2104,12 +3306,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt package — currency conversion macros + Python rates model powered by UniRateAPI.",
+            "homepage": "https://hub.getdbt.com/UniRate-API/dbt-unirate/latest/",
             "id": 1227743642,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T06:15:56Z",
+            "open_issues": 0,
             "owner": "UniRate-API",
             "repo": "dbt-unirate",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "analytics-engineering",
+              "currency-converter",
+              "dbt",
+              "dbt-package",
+              "exchange-rates",
+              "forex",
+              "fx-api",
+              "sql",
+              "unirateapi"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2120,12 +3337,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility functions for data activation.",
+            "homepage": null,
             "id": 1196470541,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T18:24:08Z",
+            "open_issues": 2,
             "owner": "sutrolabs",
             "repo": "dbt_census_utils",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "census",
+              "dbt",
+              "dbt-packages",
+              "ga4"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         }
@@ -2142,12 +3369,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A self-contained dbt project for testing purposes",
+            "homepage": null,
             "id": 353140756,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-09-12T20:39:40Z",
+            "open_issues": 20,
             "owner": "dbt-labs",
             "repo": "jaffle-shop-classic",
-            "stars": 544
+            "stars": 544,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2158,12 +3390,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚽️ Extract, prepare and publish Transfermarkt datasets.",
+            "homepage": "https://www.kaggle.com/datasets/davidcariboo/player-scores",
             "id": 324604176,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-05T07:11:08Z",
+            "open_issues": 52,
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 485
+            "stars": 485,
+            "topics": [
+              "analytics",
+              "dataset",
+              "dbt",
+              "football",
+              "football-data",
+              "soccer-analytics"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2174,12 +3418,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome public DBT projects",
+            "homepage": null,
             "id": 681997279,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-12-28T02:55:36Z",
+            "open_issues": 2,
             "owner": "InfuseAI",
             "repo": "awesome-public-dbt-projects",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "data-pipeline",
+              "dbt",
+              "transformation"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2190,12 +3443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of sample code to accompany our blog post on Airflow and dbt.",
+            "homepage": null,
             "id": 323735617,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-23T20:18:51Z",
+            "open_issues": 8,
             "owner": "astronomer",
             "repo": "airflow-dbt-demo",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2206,12 +3464,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo Project for Open Source MDS",
+            "homepage": "https://dagster.io",
             "id": 681870533,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-27T04:08:37Z",
+            "open_issues": 2,
             "owner": "dagster-io",
             "repo": "mdsfest-opensource-mds",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "dagster",
+              "data",
+              "duckdb",
+              "mds",
+              "modern",
+              "stack"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2222,12 +3492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data pipeline with dbt, Airflow, Great Expectations",
+            "homepage": null,
             "id": 352799190,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-07-14T16:58:41Z",
+            "open_issues": 2,
             "owner": "spbail",
             "repo": "dag-stack",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2238,12 +3513,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Containerized end-to-end analytics of Spotify data using Python, dbt, Postgres, and Metabase",
+            "homepage": null,
             "id": 303425005,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-08T12:20:49Z",
+            "open_issues": 1,
             "owner": "ftupas",
             "repo": "dbt-spotify-analytics",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "dbt",
+              "docker-containers",
+              "metabase",
+              "postgres",
+              "spotify-data"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2254,12 +3540,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": "https://blog.getdbt.com/modeling-subscription-revenue/",
             "id": 221943374,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2022-10-11T03:51:03Z",
+            "open_issues": 0,
             "owner": "dbt-labs",
             "repo": "mrr-playbook",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2270,12 +3561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "make-open-data",
+            "homepage": null,
             "id": 781414486,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-07T16:23:54Z",
+            "open_issues": 30,
             "owner": "make-open-data",
             "repo": "make-open-data",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2286,12 +3582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workspace for dbt demos",
+            "homepage": null,
             "id": 321096976,
             "language": "PLpgSQL",
+            "license": null,
             "last_commit": "2023-05-17T20:17:19Z",
+            "open_issues": 1,
             "owner": "randypitcherii",
             "repo": "dbt_workspace",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2302,12 +3603,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 Example repository showing how to use dbt inside Visual Studio Code development containers",
+            "homepage": null,
             "id": 370383672,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2026-05-19T21:20:19Z",
+            "open_issues": 1,
             "owner": "davidgasquez",
             "repo": "dbt-devcontainer",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "dbt",
+              "devcontainer"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2318,12 +3627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for holding the dbt project used to make sense of cloud cost data from the major cloud platforms",
+            "homepage": null,
             "id": 233140465,
             "language": "PLSQL",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-01T22:13:46Z",
+            "open_issues": 1,
             "owner": "randypitcherii",
             "repo": "cloud_cost_monitoring",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2334,12 +3648,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 237479715,
             "language": "TSQL",
+            "license": null,
             "last_commit": "2020-04-28T17:45:16Z",
+            "open_issues": 2,
             "owner": "dbt-labs",
             "repo": "attribution-playbook",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2350,12 +3669,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data-aware orchestration with dagster, dbt, and airbyte",
+            "homepage": null,
             "id": 590481291,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-20T02:39:45Z",
+            "open_issues": 0,
             "owner": "jonathanneo",
             "repo": "data-aware-orchestration",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "data-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2366,12 +3692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 612025396,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-28T02:06:58Z",
+            "open_issues": 4,
             "owner": "matsonj",
             "repo": "mdsinabox",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2382,12 +3713,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dbt-github-workflow is a boilerplate that contains all the necessary configurations to set up a simple CI/CD pipeline for your data modelling stack, making your life simpler by adding back a few extra working hours / out of hours",
+            "homepage": null,
             "id": 427280383,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2022-03-27T07:54:49Z",
+            "open_issues": 0,
             "owner": "slve",
             "repo": "dbt-github-workflow",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "airflow",
+              "composer",
+              "dbt",
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2398,12 +3739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A production-ready dbt project template with pre-configured GitHub Actions workflows for automated Snowflake/dbt deployments, testing, and role-based access control.",
+            "homepage": null,
             "id": 922385435,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-03-06T03:30:54Z",
+            "open_issues": 0,
             "owner": "collinrlenon",
             "repo": "dbt-snowflake-template",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2414,12 +3760,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A survey of pains, gains, and areas of investment for global data teams.",
+            "homepage": "https://www.getdbt.com/state-of-analytics-engineering-2023/",
             "id": 590187275,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-03-09T12:56:33Z",
+            "open_issues": 1,
             "owner": "dbt-labs",
             "repo": "analytics-engineering-survey",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2430,12 +3781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add 4 more integrations to your dbt CI pipeline: Slim CI, pre-commit hooks, Data Diffs, and Slack notifications",
+            "homepage": null,
             "id": 774553905,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-26T20:36:38Z",
+            "open_issues": 1,
             "owner": "elliotgunn",
             "repo": "datafold-dbt-ci-advanced",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2446,12 +3802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 748400063,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-01T07:08:00Z",
+            "open_issues": 0,
             "owner": "jpooksy",
             "repo": "paradime-dbt-nba-challenge",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2462,12 +3823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dbt project to make GitHub archive events useful",
+            "homepage": null,
             "id": 648819307,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-28T01:12:52Z",
+            "open_issues": 1,
             "owner": "preset-io",
             "repo": "dbt_github_archive_bigquery",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2478,12 +3844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MDS Fest 2023 - Gee, stop building into production",
+            "homepage": null,
             "id": 674351351,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-01-15T09:03:12Z",
+            "open_issues": 0,
             "owner": "nszoni",
             "repo": "gee_production_gatekeepers",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         }
@@ -2492,15 +3863,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:53:25.871Z",
+    "last_updated": "2026-08-29T04:31:21.611Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome dbt resources ",
+      "homepage": null,
       "id": 415350443,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-08-25T06:26:04Z",
+      "open_issues": 1,
       "owner": "Hiflylabs",
       "repo": "awesome-dbt",
-      "stars": 1721
+      "stars": 1721,
+      "topics": [
+        "analytics-engineering",
+        "awesome",
+        "awesome-list",
+        "data-engineering",
+        "dbt"
+      ]
     },
     "original_repository_sha": "4a27a5b24287d8caf83f0643c9787e0dc24ff78e",
     "enhanced_repository": "enhansome/enhansome-dbt",
