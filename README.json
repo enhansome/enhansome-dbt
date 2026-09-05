@@ -15,11 +15,11 @@
             "id": 224762936,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T18:57:49Z",
+            "last_commit": "2026-09-04T22:36:27Z",
             "open_issues": 211,
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
@@ -84,11 +84,11 @@
             "id": 349372179,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T22:18:19Z",
-            "open_issues": 1045,
+            "last_commit": "2026-09-05T18:45:36Z",
+            "open_issues": 1042,
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6120,
+            "stars": 6119,
             "topics": [
               "business-intelligence",
               "data-analytics",
@@ -110,11 +110,11 @@
             "id": 756594023,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T21:07:42Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-05T19:43:02Z",
+            "open_issues": 22,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3943,
+            "stars": 3944,
             "topics": [
               "bigquery",
               "copy-database",
@@ -142,8 +142,8 @@
             "id": 730384901,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:30:22Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-04T23:26:07Z",
+            "open_issues": 71,
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 959,
@@ -167,7 +167,7 @@
             "open_issues": 41,
             "owner": "dbt-labs",
             "repo": "dbt-agent-skills",
-            "stars": 701,
+            "stars": 700,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
@@ -329,7 +329,7 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T15:36:32Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "elementary-data",
             "repo": "elementary",
             "stars": 2406,
@@ -432,7 +432,7 @@
             "id": 1117377856,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T08:05:11Z",
+            "last_commit": "2026-09-05T18:06:58Z",
             "open_issues": 0,
             "owner": "rasinmuhammed",
             "repo": "misata",
@@ -655,6 +655,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dbt-plan",
+          "description": "for dbt: diffs compiled SQL between two revisions to predict the DDL would emit. Names the columns an model will drop, the downstream models and data tests that drop breaks, and enforced-contract violations. Reads files only -- no warehouse connection -- so it runs locally before and on fork pull requests, where warehouse-connected checks cannot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Catch breaking dbt schema changes before dbt run executes them: dropped columns, the downstream models and data tests they break, contract violations. Static analysis of compiled SQL, no warehouse connection. Like terraform plan, for dbt.",
+            "homepage": "https://presentjay.github.io/dbt-plan",
+            "id": 1341474168,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-05T14:08:50Z",
+            "open_issues": 29,
+            "owner": "PresentJay",
+            "repo": "dbt-plan",
+            "stars": 2,
+            "topics": [
+              "analytics-engineering",
+              "bigquery",
+              "breaking-changes",
+              "ci",
+              "ci-cd",
+              "data-contracts",
+              "data-engineering",
+              "data-quality",
+              "databricks",
+              "dbt",
+              "dbt-core",
+              "developer-tools",
+              "duckdb",
+              "github-actions",
+              "postgres",
+              "redshift",
+              "schema-migration",
+              "snowflake",
+              "sqlglot",
+              "static-analysis"
+            ]
+          },
+          "first_seen": "2026-09-05T22:11:23.327Z"
         }
       ],
       "title": "CI/CD"
@@ -674,11 +716,11 @@
             "id": 155790228,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:40:39Z",
-            "open_issues": 335,
+            "last_commit": "2026-09-05T12:55:45Z",
+            "open_issues": 329,
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9866,
+            "stars": 9865,
             "topics": [
               "hacktoberfest",
               "pypi",
@@ -700,7 +742,7 @@
             "id": 1168055015,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T20:53:14Z",
+            "last_commit": "2026-09-05T07:09:57Z",
             "open_issues": 268,
             "owner": "AltimateAI",
             "repo": "altimate-code",
@@ -829,7 +871,7 @@
             "id": 387531661,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T01:55:55Z",
+            "last_commit": "2026-09-05T00:51:02Z",
             "open_issues": 38,
             "owner": "tconbeer",
             "repo": "sqlfmt",
@@ -1066,7 +1108,7 @@
             "open_issues": 23,
             "owner": "dbt-labs",
             "repo": "dbt-meshify",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "data",
               "dbt",
@@ -1219,6 +1261,41 @@
         },
         {
           "node_type": "item",
+          "title": "dbt-doctor",
+          "description": "CLI health check and linter for dbt projects (SQL, YAML, Jinja): 190+ custom rules, optional SQLFluff, 0–100 score, GitHub Actions CI, and coding-agent skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Static analysis and health checks for dbt projects. Find missing docs, missing tests, schema drift risks, stale models, DAG maintainability issues, and CI quality gate failures.",
+            "homepage": "https://dbt-doctor.northgraindata.com",
+            "id": 1243287386,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-14T20:40:02Z",
+            "open_issues": 0,
+            "owner": "northgraindata",
+            "repo": "dbt-doctor",
+            "stars": 59,
+            "topics": [
+              "analytics-engineering",
+              "ci",
+              "cli",
+              "data-engineering",
+              "data-governance",
+              "data-quality",
+              "dbt",
+              "dbt-core",
+              "linter",
+              "pre-commit",
+              "python",
+              "sql",
+              "static-analysis"
+            ]
+          },
+          "first_seen": "2026-08-28T04:26:05.546Z"
+        },
+        {
+          "node_type": "item",
           "title": "dbt-sql-formatter",
           "description": "Makes your sql less bad.",
           "children": [],
@@ -1256,41 +1333,6 @@
             "repo": "dbt-container-skeleton",
             "stars": 58,
             "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:05.546Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dbt-doctor",
-          "description": "CLI health check and linter for dbt projects (SQL, YAML, Jinja): 190+ custom rules, optional SQLFluff, 0–100 score, GitHub Actions CI, and coding-agent skills.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Static analysis and health checks for dbt projects. Find missing docs, missing tests, schema drift risks, stale models, DAG maintainability issues, and CI quality gate failures.",
-            "homepage": "https://dbt-doctor.northgraindata.com",
-            "id": 1243287386,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-14T20:40:02Z",
-            "open_issues": 0,
-            "owner": "northgraindata",
-            "repo": "dbt-doctor",
-            "stars": 57,
-            "topics": [
-              "analytics-engineering",
-              "ci",
-              "cli",
-              "data-engineering",
-              "data-governance",
-              "data-quality",
-              "dbt",
-              "dbt-core",
-              "linter",
-              "pre-commit",
-              "python",
-              "sql",
-              "static-analysis"
-            ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
         },
@@ -2025,6 +2067,45 @@
             ]
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Datanika",
+          "description": "Open-source platform that runs dbt-core transformations alongside dlt-powered extract and load, with 36 connectors, cron scheduling, and run history in one web UI. AGPL-3.0, self-hostable with Docker Compose or Helm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your entire data pipeline. One platform",
+            "homepage": "https://datanika.io",
+            "id": 1159447866,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-05T11:58:36Z",
+            "open_issues": 116,
+            "owner": "datanika-io",
+            "repo": "datanika-core",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "airbyte-alternative",
+              "data-engineering",
+              "data-integration",
+              "data-pipeline",
+              "data-warehouse",
+              "dbt",
+              "dlt",
+              "elt",
+              "etl",
+              "fivetran-alternative",
+              "mcp",
+              "model-context-protocol",
+              "open-source",
+              "postgresql",
+              "python",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-09-05T22:11:23.327Z"
         }
       ],
       "title": "Utilities"
@@ -3395,11 +3476,11 @@
             "id": 324604176,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-05T07:11:08Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-05T09:07:49Z",
+            "open_issues": 50,
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "analytics",
               "dataset",
@@ -3863,7 +3944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:29:31.738Z",
+    "last_updated": "2026-09-05T22:11:23.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dbt resources ",
@@ -3871,8 +3952,8 @@
       "id": 415350443,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-08-25T06:26:04Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-05T18:49:02Z",
+      "open_issues": 1,
       "owner": "Hiflylabs",
       "repo": "awesome-dbt",
       "stars": 1723,
@@ -3884,7 +3965,7 @@
         "dbt"
       ]
     },
-    "original_repository_sha": "4a27a5b24287d8caf83f0643c9787e0dc24ff78e",
+    "original_repository_sha": "d3bbba29ee2271d5f529158b2b05cee3233e124f",
     "enhanced_repository": "enhansome/enhansome-dbt",
     "enhanced_repository_description": null,
     "title": "Awesome dbt with stars"
