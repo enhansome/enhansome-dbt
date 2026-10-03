@@ -84,11 +84,11 @@
             "id": 349372179,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T21:01:12Z",
-            "open_issues": 1083,
+            "last_commit": "2026-10-03T02:01:11Z",
+            "open_issues": 1080,
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6170,
+            "stars": 6171,
             "topics": [
               "business-intelligence",
               "data-analytics",
@@ -146,7 +146,7 @@
             "open_issues": 79,
             "owner": "fal-ai",
             "repo": "fal",
-            "stars": 961,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
@@ -716,11 +716,11 @@
             "id": 155790228,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:38:32Z",
-            "open_issues": 361,
+            "last_commit": "2026-10-03T04:05:24Z",
+            "open_issues": 363,
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9911,
+            "stars": 9912,
             "topics": [
               "hacktoberfest",
               "pypi",
@@ -743,7 +743,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T01:54:44Z",
-            "open_issues": 311,
+            "open_issues": 312,
             "owner": "AltimateAI",
             "repo": "altimate-code",
             "stars": 819,
@@ -3944,7 +3944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:58:10.000Z",
+    "last_updated": "2026-10-03T04:39:30.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dbt resources ",

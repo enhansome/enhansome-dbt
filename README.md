@@ -6,7 +6,7 @@
 
 Welcome to the awesome curated list of dbt resources!
 
-Any kind of contribution is greatly encouraged and appreciated. For making a contribution, **please check the [contribution guidelines](https://github.com/Hiflylabs/awesome-dbt/blob/main/contributing.md) ⭐ 1,731 | 🐛 2 | 📅 2026-09-05 first!** **Add new entries on the top of sections** (LIFO) to keep fresh items more visible! Also, **feel free to add new sections**.
+Any kind of contribution is greatly encouraged and appreciated. For making a contribution, **please check the [contribution guidelines](https://github.com/Hiflylabs/awesome-dbt/blob/main/contributing.md) first!** **Add new entries on the top of sections** (LIFO) to keep fresh items more visible! Also, **feel free to add new sections**.
 
 Happy contributing!
 
@@ -35,7 +35,7 @@ Courses from where you can get started with Analytics Engineering.
 * [dbt in a real world scenario, A Beginner dbt tutorial](https://tipseason.com/dbt-tutorial-real-world-scenario-guide/) - A beginner tutorial to understand dbt with a real world example.
 * [Mastering dbt: Beginner to Pro](https://www.udemy.com/course/mastering-dbt-data-build-tool-bootcamp/?referralCode=FFF494163B7B9E5E846F) - Paid Udemy course that covers theory, building a dbt project from scratch, and deploying to dbt Cloud.
 * [Zero to Hero dbt](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/) - Complete course covering both theory & practice through real-world Airbnb use-case.
-* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐ 45,969 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Data engineering course on cutting edge tools including dbt.
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐ 45,970 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Data engineering course on cutting edge tools including dbt.
 * [Analytics Engineering with dbt](https://uplimit.com/course/analytics-engineering-with-dbt) - Paid course offered by Uplimit covering the basics of dbt.
 * [Advanced dbt](https://uplimit.com/course/advanced-dbt) - Another paid course by Uplimit covering the advanced dbt topics.
 * [dbt Fundamentals](https://learn.getdbt.com/catalog) - Official free course offered by dbt. Excellent for learning the basics of dbt Cloud.
@@ -79,9 +79,9 @@ Helping hand on setting up integrations and implementing best practices.
 
 Collection of known data integrations with dbt
 
-* [Lightdash](https://github.com/lightdash/lightdash) ⭐ 6,170 | 🐛 1,083 | 🌐 TypeScript | 📅 2026-10-02 - Open source Looker alternative with deep dbt integration.
+* [Lightdash](https://github.com/lightdash/lightdash) ⭐ 6,171 | 🐛 1,080 | 🌐 TypeScript | 📅 2026-10-03 - Open source Looker alternative with deep dbt integration.
 * [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,987 | 🐛 31 | 🌐 Go | 📅 2026-10-02 - CLI tool to copy data from any source to any destination with a single command. Load data into your warehouse before dbt transforms it. Supports 50+ sources including Postgres, MongoDB, Salesforce, Shopify.
-* [fal](https://github.com/fal-ai/fal) ⭐ 961 | 🐛 79 | 🌐 Python | 📅 2026-10-01 - Add multi-language support (Python) to your dbt project.
+* [fal](https://github.com/fal-ai/fal) ⭐ 962 | 🐛 79 | 🌐 Python | 📅 2026-10-01 - Add multi-language support (Python) to your dbt project.
 * [dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills/tree/main) ⭐ 729 | 🐛 29 | 🌐 Python | 📅 2026-10-01 - A curated collection of agent skills, built and maintained by dbt Labs, to help AI coding agents work more effectively with dbt.
 * [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp/tree/main) ⭐ 607 | 🐛 47 | 🌐 Python | 📅 2026-10-02 - MCP tools to interact with dbt.
 * [prefect-dbt](https://github.com/PrefectHQ/prefect-dbt) ⚠️ Archived - Collection of Prefect integrations for working with dbt with your Prefect flows.
@@ -181,8 +181,8 @@ Resources to manage and maintain dependencies in modern data pipelines.
 
 Useful tools and extensions to bump up your analytics engineer workflow.
 
-* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 9,911 | 🐛 361 | 🌐 Python | 📅 2026-10-02 - SQL linter that supports dbt and Jinja templating.
-* [Altimate Code](https://github.com/AltimateAI/altimate-code) ⭐ 819 | 🐛 311 | 🌐 TypeScript | 📅 2026-10-02 - Open-source data engineering harness with 100+ deterministic tools for building, validating, optimizing, and shipping data products — usable from any LLM, across your warehouses. Ranked #1 on ADE-Bench (78%).
+* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 9,912 | 🐛 363 | 🌐 Python | 📅 2026-10-03 - SQL linter that supports dbt and Jinja templating.
+* [Altimate Code](https://github.com/AltimateAI/altimate-code) ⭐ 819 | 🐛 312 | 🌐 TypeScript | 📅 2026-10-02 - Open-source data engineering harness with 100+ deterministic tools for building, validating, optimizing, and shipping data products — usable from any LLM, across your warehouses. Ranked #1 on ADE-Bench (78%).
 * [Pre-commit hooks](https://github.com/dbt-checkpoint/dbt-checkpoint) ⭐ 769 | 🐛 70 | 🌐 Python | 📅 2026-08-17 - Pre-commit hooks for checking data integity before schema change commit.
 * [dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) ⭐ 642 | 🐛 14 | 🌐 Python | 📅 2026-08-15 - Enhance the developer experience significantly with workbench, output diffs, and YAML management.
 * [vscode-dbt-power-user](https://github.com/innoverio/vscode-dbt-power-user) ⭐ 586 | 🐛 156 | 🌐 JavaScript | 📅 2026-09-30 - VSCode extension to give more clarity on model dependencies.
@@ -405,4 +405,4 @@ Thanks for all the great resources! Can't see your avatar? Check the contributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
