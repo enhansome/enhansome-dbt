@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T20:55:12Z",
-            "open_issues": 212,
+            "open_issues": 213,
             "owner": "dbt-labs",
             "repo": "docs.getdbt.com",
             "stars": 216,
@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "flexanalytics",
             "repo": "dbt-business-intelligence",
-            "stars": 159,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
@@ -84,11 +84,11 @@
             "id": 349372179,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T21:25:41Z",
-            "open_issues": 1084,
+            "last_commit": "2026-10-04T23:28:01Z",
+            "open_issues": 1090,
             "owner": "lightdash",
             "repo": "lightdash",
-            "stars": 6173,
+            "stars": 6174,
             "topics": [
               "business-intelligence",
               "data-analytics",
@@ -114,7 +114,7 @@
             "open_issues": 29,
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3987,
+            "stars": 3988,
             "topics": [
               "bigquery",
               "copy-database",
@@ -143,7 +143,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T12:07:41Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "fal-ai",
             "repo": "fal",
             "stars": 962,
@@ -328,11 +328,11 @@
             "id": 401275197,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:55:26Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-04T15:05:19Z",
+            "open_issues": 23,
             "owner": "elementary-data",
             "repo": "elementary",
-            "stars": 2416,
+            "stars": 2417,
             "topics": [
               "analytics-engineer",
               "bigquery",
@@ -432,7 +432,7 @@
             "id": 1117377856,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:01:14Z",
+            "last_commit": "2026-10-04T17:20:30Z",
             "open_issues": 0,
             "owner": "rasinmuhammed",
             "repo": "misata",
@@ -716,11 +716,11 @@
             "id": 155790228,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T17:46:23Z",
-            "open_issues": 352,
+            "last_commit": "2026-10-04T18:57:14Z",
+            "open_issues": 350,
             "owner": "sqlfluff",
             "repo": "sqlfluff",
-            "stars": 9920,
+            "stars": 9929,
             "topics": [
               "hacktoberfest",
               "pypi",
@@ -742,8 +742,8 @@
             "id": 1168055015,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T22:47:14Z",
-            "open_issues": 316,
+            "last_commit": "2026-10-04T05:19:54Z",
+            "open_issues": 315,
             "owner": "AltimateAI",
             "repo": "altimate-code",
             "stars": 820,
@@ -786,7 +786,7 @@
             "open_issues": 70,
             "owner": "dbt-checkpoint",
             "repo": "dbt-checkpoint",
-            "stars": 769,
+            "stars": 768,
             "topics": [
               "bigquery",
               "business-intelligence",
@@ -846,7 +846,7 @@
             "open_issues": 156,
             "owner": "AltimateAI",
             "repo": "vscode-dbt-power-user",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "ai",
               "dbt",
@@ -901,7 +901,7 @@
             "open_issues": 2,
             "owner": "erika-e",
             "repo": "dbt-tips",
-            "stars": 403,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
@@ -1058,7 +1058,7 @@
             "id": 1143599301,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T07:55:39Z",
+            "last_commit": "2026-10-04T07:40:04Z",
             "open_issues": 0,
             "owner": "liam-machine",
             "repo": "erd-studio",
@@ -1119,7 +1119,7 @@
             "open_issues": 4,
             "owner": "godatadriven",
             "repo": "dbt-bouncer",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "ci",
               "dbt",
@@ -1661,7 +1661,7 @@
             "open_issues": 9,
             "owner": "montara-io",
             "repo": "dbt-command-center",
-            "stars": 32,
+            "stars": 31,
             "topics": [
               "analytics-engineering",
               "bigquery",
@@ -2192,7 +2192,7 @@
             "open_issues": 0,
             "owner": "gouline",
             "repo": "dbt-metabase",
-            "stars": 618,
+            "stars": 619,
             "topics": [
               "analytics",
               "business-intelligence",
@@ -2224,7 +2224,7 @@
             "open_issues": 25,
             "owner": "dbt-labs",
             "repo": "dbt-project-evaluator",
-            "stars": 578,
+            "stars": 577,
             "topics": [
               "dbt-packages"
             ]
@@ -2268,7 +2268,7 @@
             "open_issues": 11,
             "owner": "dbt-labs",
             "repo": "dbt-audit-helper",
-            "stars": 424,
+            "stars": 423,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:05.546Z"
@@ -2545,8 +2545,8 @@
             "id": 605428848,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:05:03Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-04T22:15:06Z",
+            "open_issues": 26,
             "owner": "microsoft",
             "repo": "dbt-fabric",
             "stars": 149,
@@ -3693,7 +3693,7 @@
             "open_issues": 1,
             "owner": "davidgasquez",
             "repo": "dbt-devcontainer",
-            "stars": 45,
+            "stars": 44,
             "topics": [
               "dbt",
               "devcontainer"
@@ -3944,7 +3944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:16:26.039Z",
+    "last_updated": "2026-10-04T23:30:31.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dbt resources ",
