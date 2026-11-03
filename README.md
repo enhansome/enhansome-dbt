@@ -58,7 +58,7 @@ General material to learn dbt and analytics engineering. Topic-specific guides l
 
 Structured courses, free and paid.
 
-* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐ 46,582 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-10-15 - Data engineering course on cutting edge tools including dbt.
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐ 46,612 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-10-15 - Data engineering course on cutting edge tools including dbt.
 * [Advanced dbt](https://uplimit.com/course/advanced-dbt) - Paid Uplimit course on advanced dbt topics.
 * [Mastering dbt: Beginner to Pro](https://www.udemy.com/course/mastering-dbt-data-build-tool-bootcamp/) - Paid Udemy course that covers theory, building a dbt project from scratch, and deploying to dbt Cloud.
 * [Zero to Hero dbt](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/) - Complete course covering both theory & practice through real-world Airbnb use-case.
@@ -120,7 +120,7 @@ Tools for writing, checking and generating dbt code.
 
 Editor extensions and local web UIs for working on dbt projects.
 
-* [dbt Power User](https://github.com/AltimateAI/vscode-dbt-power-user) ⭐ 586 | 🐛 170 | 🌐 JavaScript | 📅 2026-10-31 - VS Code extension for dbt: model lineage, query preview, autocompletion and documentation.
+* [dbt Power User](https://github.com/AltimateAI/vscode-dbt-power-user) ⭐ 586 | 🐛 170 | 🌐 JavaScript | 📅 2026-11-02 - VS Code extension for dbt: model lineage, query preview, autocompletion and documentation.
 * [dbtpal](https://github.com/PedramNavid/dbtpal) ⭐ 138 | 🐛 10 | 🌐 Lua | 📅 2025-06-19 - A Neovim plugin for dbt model editing.
 * [dbt-ui](https://github.com/data-diving/dbt-ui) ⭐ 125 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-19 - A modern web-based user interface for dbt-core projects.
 * [dbt-Workbench](https://github.com/rezer-bleede/dbt-Workbench) ⭐ 73 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-01 - An open UI for dbt providing model browsing, lineage visualization, run orchestration, documentation, environment management — without vendor lock-in. Designed for local, on‑prem, and air‑gapped deployments.
@@ -132,13 +132,13 @@ Editor extensions and local web UIs for working on dbt projects.
 
 Linters, formatters and checks that keep a project consistent.
 
-* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 10,011 | 🐛 329 | 🌐 Python | 📅 2026-11-01 - SQL linter that supports dbt and Jinja templating.
-* [dbt-checkpoint](https://github.com/dbt-checkpoint/dbt-checkpoint) ⭐ 771 | 🐛 76 | 🌐 Python | 📅 2026-08-17 - Pre-commit hooks that check your dbt project (docs, tests, naming) before changes are committed.
+* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 10,009 | 🐛 326 | 🌐 Python | 📅 2026-11-02 - SQL linter that supports dbt and Jinja templating.
+* [dbt-checkpoint](https://github.com/dbt-checkpoint/dbt-checkpoint) ⭐ 772 | 🐛 77 | 🌐 Python | 📅 2026-08-17 - Pre-commit hooks that check your dbt project (docs, tests, naming) before changes are committed.
 * [dbt-project-evaluator](https://github.com/dbt-labs/dbt-project-evaluator) ⭐ 584 | 🐛 22 | 🌐 Python | 📅 2026-10-26 - Highlights areas of a dbt project that are misaligned with dbt Labs' best practices.
-* [sqlfmt](https://github.com/tconbeer/sqlfmt) ⭐ 551 | 🐛 42 | 🌐 Python | 📅 2026-11-01 - Formats your dbt SQL code so you don't have to.
+* [sqlfmt](https://github.com/tconbeer/sqlfmt) ⭐ 551 | 🐛 42 | 🌐 Python | 📅 2026-11-02 - Formats your dbt SQL code so you don't have to.
 * [dbt-score](https://github.com/PicnicSupermarket/dbt-score) ⭐ 250 | 🐛 17 | 🌐 Python | 📅 2026-11-01 - Linter for dbt metadata.
 * [dbt-coverage](https://github.com/slidoapp/dbt-coverage) ⭐ 242 | 🐛 19 | 🌐 Python | 📅 2026-10-07 - Checks dbt docs and tests coverage.
-* [dbt-bouncer](https://github.com/godatadriven/dbt-bouncer) ⭐ 137 | 🐛 7 | 🌐 Python | 📅 2026-11-01 - Configure and enforce conventions for your dbt project.
+* [dbt-bouncer](https://github.com/godatadriven/dbt-bouncer) ⭐ 137 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - Configure and enforce conventions for your dbt project.
 * [dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) ⭐ 133 | 🐛 10 | 🌐 SQL | 📅 2026-04-16 - Enforce documentation and test coverage on your models.
 * [dbt-doctor](https://github.com/northgraindata/dbt-doctor) ⭐ 69 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - CLI health check and linter for dbt projects (SQL, YAML, Jinja): 190+ custom rules, optional SQLFluff, 0–100 score, GitHub Actions CI, and coding-agent skills.
 * [dbtective](https://github.com/feliblo/dbtective) ⭐ 44 | 🐛 0 | 🌐 Rust | 📅 2026-09-24 - Rust-powered linter that checks dbt projects and their metadata against best practices.
@@ -178,13 +178,14 @@ Generative AI for dbt: giving agents access to your project, and LLM-powered too
 
 MCP servers, agent skills and harnesses that let coding agents and assistants work with dbt.
 
-* [Altimate Code](https://github.com/AltimateAI/altimate-code) ⭐ 817 | 🐛 390 | 🌐 TypeScript | 📅 2026-11-01 - Open-source data engineering harness with 100+ deterministic tools for building, validating, optimizing, and shipping data products — usable from any LLM, across your warehouses. Ranked #1 on ADE-Bench (78%).
-* [dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) ⭐ 750 | 🐛 40 | 🌐 Python | 📅 2026-10-29 - A curated collection of agent skills, built and maintained by dbt Labs, to help AI coding agents work more effectively with dbt.
-* [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp) ⭐ 615 | 🐛 52 | 🌐 Python | 📅 2026-10-30 - Official dbt Labs MCP server: lets AI agents query the dbt Semantic Layer, discover models and lineage, and run dbt commands.
-* [Dex](https://github.com/exmergo/dex) ⭐ 107 | 🐛 154 | 🌐 Python | 📅 2026-11-01 - Agent skills (Claude Code, Codex) that author dbt models, tests, and MetricFlow semantic models as reviewable diffs, profile source warehouses read-only, and detect schema, grain, and semantic drift. Apache-2.0.
+* [Altimate Code](https://github.com/AltimateAI/altimate-code) ⭐ 818 | 🐛 392 | 🌐 TypeScript | 📅 2026-11-03 - Open-source data engineering harness with 100+ deterministic tools for building, validating, optimizing, and shipping data products — usable from any LLM, across your warehouses. Ranked #1 on ADE-Bench (78%).
+* [dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) ⭐ 750 | 🐛 40 | 🌐 Python | 📅 2026-11-02 - A curated collection of agent skills, built and maintained by dbt Labs, to help AI coding agents work more effectively with dbt.
+* [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp) ⭐ 616 | 🐛 52 | 🌐 Python | 📅 2026-11-02 - Official dbt Labs MCP server: lets AI agents query the dbt Semantic Layer, discover models and lineage, and run dbt commands.
+* [schemagate](https://github.com/ashishsinha1602/schemagate) ⭐ 179 | 🐛 4 | 🌐 Python | 📅 2026-11-03 - Imports dbt semantic models (`semantic_manifest.json`) so an MCP server or LangChain retriever gives the LLM only the tables a question needs: about 91% fewer schema tokens on text-to-SQL, #1 on the BIRD Mini-Dev leaderboard.
+* [Dex](https://github.com/exmergo/dex) ⭐ 107 | 🐛 165 | 🌐 Python | 📅 2026-11-02 - Agent skills (Claude Code, Codex) that author dbt models, tests, and MetricFlow semantic models as reviewable diffs, profile source warehouses read-only, and detect schema, grain, and semantic drift. Apache-2.0.
 * [dbt-cli-mcp](https://github.com/MammothGrowth/dbt-cli-mcp) ⭐ 18 | 🐛 4 | 🌐 Python | 📅 2025-06-26 - MCP server that wraps the dbt CLI, so agents can run, test and inspect dbt projects.
-* [dlin](https://github.com/eitsupi/dlin) ⭐ 17 | 🐛 2 | 🌐 Rust | 📅 2026-10-30 - Gives coding agents instant dbt lineage: no dbt compile, no Python, no grep. Fast model-level lineage CLI parsing SQL files directly (or a `manifest.json`), with experimental column-level lineage too.
-* [dbprint](https://github.com/jakubro/dbprint) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-10-29 - Snapshots each warehouse table's DDL, joins and column values (value lists, null shares, ranges) into files committed to your repo, which coding agents read through an MCP server or a skill instead of querying the warehouse. Reads column lineage from a compiled dbt manifest, so a note on a source column reaches the model columns built from it.
+* [dlin](https://github.com/eitsupi/dlin) ⭐ 17 | 🐛 2 | 🌐 Rust | 📅 2026-11-02 - Gives coding agents instant dbt lineage: no dbt compile, no Python, no grep. Fast model-level lineage CLI parsing SQL files directly (or a `manifest.json`), with experimental column-level lineage too.
+* [dbprint](https://github.com/jakubro/dbprint) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-29 - Snapshots each warehouse table's DDL, joins and column values (value lists, null shares, ranges) into files committed to your repo, which coding agents read through an MCP server or a skill instead of querying the warehouse. Reads column lineage from a compiled dbt manifest, so a note on a source column reaches the model columns built from it.
 * [Bonnard](https://bonnard.ai) - Governed, multi-tenant MCP access to customer data. Turn your dbt models into a secure, per-customer MCP for AI agents.
 
 ### AI Assistants & Tools
@@ -207,8 +208,8 @@ Testing frameworks, packages and guides, from unit tests to data contracts.
 
 * [dbt-unit-testing](https://github.com/EqualExperts/dbt-unit-testing) ⭐ 448 | 🐛 26 | 🌐 Shell | 📅 2026-05-13 - Package which contains macros to support unit testing.
 * [dbt-expectations](https://github.com/metaplane/dbt-expectations) ⭐ 168 | 🐛 25 | 🌐 Shell | 📅 2026-05-17 - Great Expectations-style tests as dbt macros. Maintained fork by Metaplane of the original calogica package, which is no longer supported.
+* [Misata](https://github.com/rasinmuhammed/misata) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - Generate known-answer seed and test data for dbt models: declare the expected aggregates (revenue curves, rates, rollups) and assert your models return them exactly.
 * [dbt-assertions](https://github.com/AxelThevenot/dbt-assertions) ⭐ 73 | 🐛 2 | 📅 2025-11-25 - Package to assert rows in-line with dbt macros.
-* [Misata](https://github.com/rasinmuhammed/misata) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - Generate known-answer seed and test data for dbt models: declare the expected aggregates (revenue curves, rates, rollups) and assert your models return them exactly.
 * [pytest-dbt-core](https://github.com/godatadriven/pytest-dbt-core) ⭐ 61 | 🐛 8 | 🌐 Python | 📅 2026-07-06 - A pytest plugin for testing your dbt projects.
 * [dbt-testgen](https://github.com/kgmcquate/dbt-testgen) ⭐ 37 | 🐛 6 | 🌐 Shell | 📅 2024-02-28 - Generate dbt tests based on sample data.
 * [data-contract-validator](https://github.com/OGsiji/data-contract-validator) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - Fails the pull request when a model stops producing what a downstream consumer expects. Reads columns from `catalog.json`/`manifest.json` (falling back to a sqlglot parse of the SQL) and compares them against reverse-ETL destinations such as HubSpot CRM and against FastAPI/Pydantic services, in CI or pre-commit.
@@ -228,7 +229,7 @@ Monitoring, anomaly detection and alerting on the data your models build.
 * [re\_data](https://github.com/re-data/re-data) ⭐ 1,575 | 🐛 72 | 🌐 HTML | 📅 2024-04-30 - A dbt package for monitoring metrics and detecting anomalies.
 * [DataKitchen Open Source Data Observability](https://github.com/DataKitchen/data-observability-installer) ⭐ 143 | 🐛 6 | 🌐 Python | 📅 2026-10-08 - Open source observability and alerting across your data estate, with fast data quality test generation and execution.
 * [dq-tools](https://github.com/infinitelambda/dq-tools) ⭐ 58 | 🐛 1 | 🌐 PLpgSQL | 📅 2026-08-21 - Store dbt test results and visualize them in a BI dashboard built on 6 data quality KPIs.
-* [Scherlok](https://github.com/rbmuller/scherlok) ⭐ 12 | 🐛 11 | 🌐 Python | 📅 2026-10-29 - Zero-config data quality CLI that complements `dbt test` with auto-detected anomalies (volume, schema drift, freshness, distribution, cardinality) on every materialized model after `dbt run`.
+* [Scherlok](https://github.com/rbmuller/scherlok) ⭐ 13 | 🐛 20 | 🌐 Python | 📅 2026-10-29 - Zero-config data quality CLI that complements `dbt test` with auto-detected anomalies (volume, schema drift, freshness, distribution, cardinality) on every materialized model after `dbt run`.
 * [Aegis DQ](https://github.com/aegis-dq/aegis-dq) ⭐ 4 | 🐛 10 | 🌐 Python | 📅 2026-05-27 - Agentic data quality framework that runs YAML rules against your warehouse (DuckDB, BigQuery, Snowflake, Databricks, Athena, PostgreSQL), then uses LLMs to diagnose failures, trace root causes, and propose SQL fixes. Pairs naturally with dbt models as the validation layer after `dbt run`.
 * [Upstrace](https://github.com/ashg2099/upstrace) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-09-17 - Column-level drift detection and lineage-based root-cause analysis for dbt projects.
 * [diqu](https://diqu.iflambda.com/latest/) - CLI companion that turns dbt test results into detailed alerts on the platforms your team already uses.
@@ -240,13 +241,13 @@ Monitoring, anomaly detection and alerting on the data your models build.
 
 Ship changes safely: slim CI, data diffs, deployment patterns and pull request workflows.
 
-* [reladiff](https://github.com/erezsh/reladiff) ⭐ 546 | 🐛 24 | 🌐 Python | 📅 2025-08-18 - Diff large datasets within or across databases. Maintained continuation of Datafold's data-diff, which is archived.
+* [reladiff](https://github.com/erezsh/reladiff) ⭐ 547 | 🐛 24 | 🌐 Python | 📅 2025-08-18 - Diff large datasets within or across databases. Maintained continuation of Datafold's data-diff, which is archived.
 * [dbt-ci-cd](https://github.com/bruno-szdl/dbt-ci-cd) ⭐ 189 | 🐛 3 | 📅 2025-08-24 - Example setup that demonstrates best practices for testing and deploying dbt models.
 * [dbt-beyond-the-basics](https://github.com/pgoslatara/dbt-beyond-the-basics) ⭐ 109 | 🐛 2 | 🌐 Python | 📅 2026-08-17 - Showcase of advanced options when running CI for dbt.
 * [dbt-dry-run](https://github.com/autotraderuk/dbt-dry-run) ⭐ 103 | 🐛 13 | 🌐 Python | 📅 2026-07-22 - Auto Trader's tool that validates a whole dbt project with BigQuery dry run jobs, catching invalid SQL in seconds without running any models.
 * [dbt-data-diff](https://github.com/infinitelambda/dbt-data-diff) ⭐ 26 | 🐛 1 | 🌐 PLpgSQL | 📅 2026-07-02 - Data-diff solution for dbt-ers with Snowflake.
 * [DDO](https://github.com/marco-roy/DDO) ⭐ 16 | 🐛 1 | 📅 2021-05-11 - Perform DataOps & administrative CI/CD on your data warehouse.
-* [dbt-plan](https://github.com/PresentJay/dbt-plan) ⭐ 2 | 🐛 42 | 🌐 Python | 📅 2026-11-01 - `terraform plan` for dbt: diffs compiled SQL between two revisions to predict the DDL `dbt run` would emit. Names the columns an `on_schema_change: sync_all_columns` model will drop, the downstream models and data tests that drop breaks, and enforced-contract violations. Reads files only -- no warehouse connection -- so it runs locally before `dbt run` and on fork pull requests, where warehouse-connected checks cannot.
+* [dbt-plan](https://github.com/PresentJay/dbt-plan) ⭐ 2 | 🐛 40 | 🌐 Python | 📅 2026-11-03 - `terraform plan` for dbt: diffs compiled SQL between two revisions to predict the DDL `dbt run` would emit. Names the columns an `on_schema_change: sync_all_columns` model will drop, the downstream models and data tests that drop breaks, and enforced-contract violations. Reads files only -- no warehouse connection -- so it runs locally before `dbt run` and on fork pull requests, where warehouse-connected checks cannot.
 * [Guide to Running DBT in Production](https://jaehyeon.me/blog/2024-09-13-dbt-guide/) - A complete CI/CD process for a dbt project: defer (slim CI) and unit tests for CI, automatic deployment to lower environments, and [Write-Audit-Publish](https://lakefs.io/blog/data-engineering-patterns-write-audit-publish/) with dbt clone for production.
 * [DBT CI/CD Demo with BigQuery and GitHub Actions](https://jaehyeon.me/blog/2024-09-05-dbt-cicd-demo/) - A demo CI/CD implementation using GitHub Actions, including [slim CI](https://docs.getdbt.com/reference/node-selection/defer) and [unit tests](https://docs.getdbt.com/docs/build/unit-tests).
 * [How to Create CI/CD Pipelines for dbt Core](https://paulfry999.medium.com/v0-4-pre-chatgpt-how-to-create-ci-cd-pipelines-for-dbt-core-88e68ab506dd) - Implement dbt Cloud's Slim CI job pattern with dbt Core.
@@ -263,8 +264,8 @@ Ship changes safely: slim CI, data diffs, deployment patterns and pull request w
 
 Schedule and run dbt, and load the data it transforms.
 
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,040 | 🐛 31 | 🌐 Go | 📅 2026-10-30 - CLI tool to copy data from any source to any destination with a single command. Load data into your warehouse before dbt transforms it. Supports 50+ sources including PostgreSQL, MongoDB, Salesforce, Shopify.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,798 | 🐛 71 | 🌐 Go | 📅 2026-11-01 - Run and schedule dbt-style SQL transformations without Airflow. Adds data ingestion (50+ sources) and built-in data quality to the transformation layer. Open-source CLI or managed [Bruin Cloud](https://getbruin.com) for teams who want dbt Cloud-like experience with ingestion included.
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,040 | 🐛 28 | 🌐 Go | 📅 2026-11-02 - CLI tool to copy data from any source to any destination with a single command. Load data into your warehouse before dbt transforms it. Supports 50+ sources including PostgreSQL, MongoDB, Salesforce, Shopify.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,799 | 🐛 74 | 🌐 Go | 📅 2026-11-02 - Run and schedule dbt-style SQL transformations without Airflow. Adds data ingestion (50+ sources) and built-in data quality to the transformation layer. Open-source CLI or managed [Bruin Cloud](https://getbruin.com) for teams who want dbt Cloud-like experience with ingestion included.
 * [modal-dbt](https://github.com/trouze/modal-dbt) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-09-07 - Run dbt jobs on Modal, a serverless application platform.
 * [Datanika](https://github.com/datanika-io/datanika-core) ⭐ 0 | 🐛 140 | 🌐 Python | 📅 2026-10-28 - Open-source platform that runs dbt-core transformations alongside dlt-powered extract and load, with 36 connectors, cron scheduling, and run history in one web UI. AGPL-3.0, self-hostable with Docker Compose or Helm.
 * [ModelDock](https://modeldock.run) - Hosted dbt-core scheduler. Connect your repo, pick dbt-core and adapter version, set a cron, run dbt-core in isolated Docker containers. No Airflow to manage.
@@ -281,8 +282,8 @@ Schedule and run dbt, and load the data it transforms.
 
 Modeling patterns: Kimball, Data Vault and slowly changing dimensions.
 
-* [datavault4dbt](https://github.com/ScalefreeCOM/datavault4dbt) ⭐ 217 | 🐛 17 | 🌐 PLSQL | 📅 2026-10-26 - Macros for staging and creation of all DataVault-Entities you need, to build your own DataVault2.0 solution.
-* [TurboVault Engine](https://github.com/ScalefreeCOM/turbovault-engine) ⭐ 28 | 🐛 24 | 🌐 Python | 📅 2026-10-30 - Generates a complete dbt project of Data Vault models for the datavault4dbt package from source metadata (successor of turbovault4dbt).
+* [datavault4dbt](https://github.com/ScalefreeCOM/datavault4dbt) ⭐ 217 | 🐛 18 | 🌐 PLSQL | 📅 2026-11-02 - Macros for staging and creation of all DataVault-Entities you need, to build your own DataVault2.0 solution.
+* [TurboVault Engine](https://github.com/ScalefreeCOM/turbovault-engine) ⭐ 28 | 🐛 23 | 🌐 Python | 📅 2026-11-02 - Generates a complete dbt project of Data Vault models for the datavault4dbt package from source metadata (successor of turbovault4dbt).
 * [dbtvault-generator](https://github.com/Oracen/dbtvault-generator) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2023-07-27 - Generate AutomateDV (formerly dbtvault) files from YAML metadata.
 * [dbt-scd2-utils](https://github.com/henryupton/dbt-scd2-utils) ⭐ 10 | 🐛 2 | 🌐 Shell | 📅 2026-10-27 - Materializations for SCD Type 0, 1 and 2 tables on Snowflake with shared audit columns, soft-delete handling, a metadata-preserving full refresh and an `scd2_join` macro for temporal joins.
 * [metadv](https://github.com/data-diving/metadv) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-01-24 - Python library for generating models from a declarative YAML configuration. It supports multiple data modeling approaches including Data Vault 2.0, Anchor Modeling, and Dimensional Modeling, with template packages for popular dbt libraries.
@@ -310,8 +311,8 @@ Column-level lineage and impact analysis.
 Documentation sites, ERDs and data catalogs built from dbt metadata.
 
 * [dbterd](https://github.com/datnguye/dbterd) ⭐ 347 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - CLI to generate DBML file from dbt manifest.json.
-* [Automatically generate ERD](https://github.com/dbt-labs/docs.getdbt.com/discussions/1541) ⭐ 219 | 🐛 203 | 🌐 JavaScript | 📅 2026-10-31 - Automatically generate ERDs and display in your docs site.
-* [ERD Studio](https://github.com/liam-machine/erd-studio) ⭐ 166 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-31 - VS Code extension that puts a visual ERD designer inside your dbt repo. Two-stage (logical/physical) canvas, drift detection against `manifest.json`, auto-generated `selectors.yml`, and AI-readable semantic models (YAML/JSON) with a built-in harness for Claude, Copilot, Gemini, and Codex.
+* [Automatically generate ERD](https://github.com/dbt-labs/docs.getdbt.com/discussions/1541) ⭐ 219 | 🐛 203 | 🌐 JavaScript | 📅 2026-11-03 - Automatically generate ERDs and display in your docs site.
+* [ERD Studio](https://github.com/liam-machine/erd-studio) ⭐ 166 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-03 - VS Code extension that puts a visual ERD designer inside your dbt repo. Two-stage (logical/physical) canvas, drift detection against `manifest.json`, auto-generated `selectors.yml`, and AI-readable semantic models (YAML/JSON) with a built-in harness for Claude, Copilot, Gemini, and Codex.
 * [dbt-exposures-crawler](https://github.com/voi-oss/dbt-exposures-crawler) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2024-01-25 - Automate the creation of dbt exposures from different sources.
 * [dbt-erdiagram-generator](https://github.com/intellishore/dbt-erdiagram-generator) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2023-02-07 - Generates ERDs from a dbt project.
 * [metaplane cli](https://github.com/metaplane/cli) ⭐ 27 | 🐛 1 | 🌐 TypeScript | 📅 2025-02-14 - CLI that builds a browsable UI of your latest dbt run from the target folder.
@@ -336,9 +337,9 @@ Masking, tagging and anonymizing sensitive data.
 
 Metrics, semantic layers and BI tools that build on dbt models.
 
-* [Lightdash](https://github.com/lightdash/lightdash) ⭐ 6,218 | 🐛 1,122 | 🌐 TypeScript | 📅 2026-11-01 - Open source Looker alternative with deep dbt integration.
-* [MetricFlow](https://github.com/dbt-labs/metricflow) ⭐ 1,855 | 🐛 162 | 🌐 Python | 📅 2026-10-13 - Define metrics in code and generate the SQL to compute them. Powers the dbt Semantic Layer and replaces the deprecated dbt\_metrics package.
-* [dbt-metabase](https://github.com/gouline/dbt-metabase) ⭐ 623 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Model synchronization from dbt to Metabase.
+* [Lightdash](https://github.com/lightdash/lightdash) ⭐ 6,221 | 🐛 1,125 | 🌐 TypeScript | 📅 2026-11-03 - Open source Looker alternative with deep dbt integration.
+* [MetricFlow](https://github.com/dbt-labs/metricflow) ⭐ 1,856 | 🐛 164 | 🌐 Python | 📅 2026-11-02 - Define metrics in code and generate the SQL to compute them. Powers the dbt Semantic Layer and replaces the deprecated dbt\_metrics package.
+* [dbt-metabase](https://github.com/gouline/dbt-metabase) ⭐ 624 | 🐛 1 | 🌐 Python | 📅 2026-11-03 - Model synchronization from dbt to Metabase.
 * [dbt2looker](https://github.com/lightdash/dbt2looker) ⭐ 194 | 🐛 34 | 🌐 Python | 📅 2024-08-20 - Generate Looker views for dbt models.
 * [Business Intelligence Standards](https://github.com/flexanalytics/dbt-business-intelligence) ⭐ 158 | 🐛 5 | 🌐 Python | 📅 2026-04-30 - Best practices in Business Intelligence standards for integrating with dbt.
 * [dbt-superset-lineage](https://github.com/slidoapp/dbt-superset-lineage) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - Push and pull metadata between dbt and Superset.
@@ -380,7 +381,7 @@ Repository layout, multi-project setups and dbt Mesh.
 
 Run metadata, warehouse cost and query performance.
 
-* [dbt\_artifacts](https://github.com/brooklyn-data/dbt_artifacts) ⭐ 405 | 🐛 90 | 🌐 Shell | 📅 2026-10-29 - Builds a mart of tables from dbt artifacts in your warehouse, to monitor runs, models and tests over time.
+* [dbt\_artifacts](https://github.com/brooklyn-data/dbt_artifacts) ⭐ 405 | 🐛 87 | 🌐 Shell | 📅 2026-11-02 - Builds a mart of tables from dbt artifacts in your warehouse, to monitor runs, models and tests over time.
 * [dbt-snowflake-monitoring](https://github.com/get-select/dbt-snowflake-monitoring) ⭐ 264 | 🐛 33 | 📅 2026-03-18 - A dbt package to help you monitor Snowflake performance and costs.
 * [dbt-dag-monitoring](https://github.com/techindicium/dbt-dag-monitoring) ⭐ 30 | 🐛 12 | 🌐 Shell | 📅 2025-02-14 - A dbt package for monitoring Airflow DAGs and tasks.
 * [dbt\_otel\_export](https://github.com/irvingpop/dbt_otel_export) ⭐ 11 | 🐛 0 | 🌐 PLpgSQL | 📅 2025-06-20 - Takes dbt runs and turns them into OpenTelemetry traces.
@@ -413,7 +414,7 @@ General-purpose dbt packages. Packages for a specific topic are listed in that t
 * [dbt\_constraints](https://github.com/Snowflake-Labs/dbt_constraints) ⭐ 180 | 🐛 0 | 🌐 SQL | 📅 2026-10-21 - Generate database constraints based on the tests in a dbt project.
 * [dbt-incremental-stream](https://github.com/arnoN7/dbt-incremental-stream) ⭐ 39 | 🐛 3 | 🌐 Python | 📅 2026-02-05 - A dbt package for Snowflake Streams.
 * [dbt-fivetran-utils](https://github.com/fivetran/dbt_fivetran_utils) ⭐ 34 | 🐛 21 | 🌐 Shell | 📅 2026-09-25 - General macros and helpers.
-* [dbt-date](https://github.com/godatadriven/dbt-date) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2026-10-26 - Date logic and calendar functionality.
+* [dbt-date](https://github.com/godatadriven/dbt-date) ⭐ 31 | 🐛 6 | 🌐 Python | 📅 2026-11-01 - Date logic and calendar functionality.
 * [dbt-translate](https://github.com/datnguye/dbt-translate) ⭐ 10 | 🐛 0 | 🌐 TSQL | 📅 2023-10-21 - Translate numbers into words.
 * [dbt\_diving](https://github.com/data-diving/dbt_diving) ⭐ 6 | 🐛 3 | 🌐 Shell | 📅 2026-01-15 - A free to use dbt package with helper macros.
 * [dbt-reconfigured](https://github.com/Nipsuli/dbt-reconfigured) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2024-03-07 - A dbt package containing reconfigured macros.
@@ -429,8 +430,8 @@ Connect dbt to more platforms.
 
 * [dbt-fabric](https://github.com/microsoft/dbt-fabric) ⭐ 152 | 🐛 29 | 🌐 Python | 📅 2026-10-26 - A dbt adapter for working with Microsoft Fabric Data Warehouses.
 * [dbt-excel](https://github.com/godatadriven/dbt-excel) ⭐ 96 | 🐛 10 | 🌐 Python | 📅 2026-03-12 - A dbt adapter for working with Excel.
-* [dbt-fabricspark](https://github.com/microsoft/dbt-fabricspark) ⭐ 71 | 🐛 3 | 🌐 Python | 📅 2026-11-01 - A code package from Microsoft for enabling dbt to work with Synapse Spark in Microsoft Fabric.
-* [dbt-timescaledb](https://github.com/sdebruyn/dbt-timescaledb) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-10-10 - The TimescaleDB adapter plugin for dbt.
+* [dbt-fabricspark](https://github.com/microsoft/dbt-fabricspark) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-11-02 - A code package from Microsoft for enabling dbt to work with Synapse Spark in Microsoft Fabric.
+* [dbt-timescaledb](https://github.com/sdebruyn/dbt-timescaledb) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-10-10 - The TimescaleDB adapter plugin for dbt.
 * [dbt-fabricsparknb](https://insight-services-apac.github.io/APAC-Capability-DAI-DbtFabricSparkNb/) - Generates Fabric Spark notebooks from dbt, by Insight; a fork of Microsoft's dbt-fabricspark.
 * [Supported Adapters](https://docs.getdbt.com/docs/supported-data-platforms) - Trusted and community adapters listed by dbt Labs.
 
@@ -438,7 +439,7 @@ Connect dbt to more platforms.
 
 Complete projects to learn from, most of them runnable out of the box.
 
-* [transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) ⭐ 527 | 🐛 50 | 🌐 Python | 📅 2026-09-05 - E2E dbt project for scraping and transforming football data from Transfermarkt.
+* [transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) ⭐ 527 | 🐛 51 | 🌐 Python | 📅 2026-09-05 - E2E dbt project for scraping and transforming football data from Transfermarkt.
 * [Jaffle Shop](https://github.com/dbt-labs/jaffle-shop) ⭐ 385 | 🐛 18 | 📅 2026-09-16 - Sandbox project from dbt Labs, built around a fictional sandwich shop, for learning and testing.
 * [awesome-public-dbt-projects](https://github.com/InfuseAI/awesome-public-dbt-projects) ⭐ 222 | 🐛 2 | 📅 2023-12-28 - A curated list of awesome public dbt projects.
 * [airflow-dbt-demo](https://github.com/astronomer/airflow-dbt-demo) ⭐ 187 | 🐛 8 | 🌐 Python | 📅 2023-08-23 - Demonstration of Airflow integration.
@@ -520,7 +521,7 @@ Places to ask questions and follow along.
 * [dbt Labs TikTok](https://www.tiktok.com/@dbtlabs) - Official TikTok channel of dbt Labs.
 * [Locally Optimistic](https://locallyoptimistic.com/about/) - A Slack community of aspiring analytics leaders discussing and sharing lessons learned and challenges from their experiences in using data.
 * [DataTalks.Club](https://datatalks.club/) - Global online community of data enthusiasts. Podcasts and blogs, etc. are distributed with high frequency.
-* [dbt Community Discussions](https://github.com/dbt-labs/docs.getdbt.com/discussions) ⭐ 219 | 🐛 203 | 🌐 JavaScript | 📅 2026-10-31 - GitHub Discussions on the dbt docs repo, the successor of the dbt Discourse forum.
+* [dbt Community Discussions](https://github.com/dbt-labs/docs.getdbt.com/discussions) ⭐ 219 | 🐛 203 | 🌐 JavaScript | 📅 2026-11-03 - GitHub Discussions on the dbt docs repo, the successor of the dbt Discourse forum.
 * [dbt Slack](https://www.getdbt.com/community) - Energy-filled hub of analytics engineers (Highly recommended).
 * [r/dataengineering](https://www.reddit.com/r/dataengineering/) - Subreddit of data engineering topics.
 
@@ -534,4 +535,4 @@ Thanks for all the great resources! Can't see your avatar? Check the contributio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
